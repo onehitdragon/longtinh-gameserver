@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x3b</id>
+		<name>charge</name>
+		<class>hero.charge.service.ChargeServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+        <clientprocess id="0x3b05">hero.charge.clienthandler.OperateMallGoods</clientprocess>
+        
+        <clientprocess id="0x3b06">hero.charge.clienthandler.GetTransID</clientprocess>
+
+        <clientprocess id="0x3b07">hero.charge.clienthandler.GetTransIDForOther</clientprocess>
+        <clientprocess id="0x3b10">hero.charge.clienthandler.ChargeUp</clientprocess>
+        <clientprocess id="0x3b12">hero.charge.clienthandler.QueryPoint</clientprocess>
+        <clientprocess id="0x3b13">hero.charge.clienthandler.QueryRecord</clientprocess>
+
+        <!--<clientprocess id="0x3b14">hero.charge.clienthandler.GetTransIDForCharging</clientprocess>-->
+        <!--<clientprocess id="0x3b15">hero.charge.clienthandler.RequestNgFee</clientprocess>-->
+
+        <clientprocess id="0x3b16">hero.charge.clienthandler.RequestChargeList</clientprocess>
+
+	</clientprocesses>
+	<messages>
+		<message id="0x3b01">hero.charge.message.ExperienceBookTraceTime</message>
+		<message id="0x3b02">hero.charge.message.PointAmountNotify</message>
+		<message id="0x3b05">hero.charge.message.ResponseMallGoodsList</message>
+		
+		<message id="0x3b06">hero.charge.message.ResponseTransID</message>
+		<message id="0x3b08">hero.charge.message.SendChargeList</message>
+		<message id="0x3b09">hero.charge.message.ResponseRecharge</message>
+
+        <message id="0x3b14">hero.charge.message.ResponseQueryResult</message>
+	</messages>
+	<config>
+
+	
+		<!--<point_amount_db_host>192.168.0.9:3306</point_amount_db_host>
+		<point_amount_db_name>rv_hero_account_test</point_amount_db_name>
+		<point_amount_db_username>hero</point_amount_db_username>
+		<point_amount_db_pwd>dingchu</point_amount_db_pwd>-->
+		<port_callback>8011</port_callback>
+
+		<mall_goods_data_path>res/data/goods/mall</mall_goods_data_path>
+		<url_charge_type_path>res/data/charge/chargelist/fee_type</url_charge_type_path>
+        <url_charge_info_path>res/data/charge/chargelist/fpcode</url_charge_info_path>
+		
+	
+		<!-- 计费配置接口 -->
+		<fee_ini_url>http://112.25.14.24/ota/paypan/getfeeini.php</fee_ini_url>
+			
+		<!-- 计费接口id -->
+		<fee_ids>
+			<fee_id>
+				<id>jiutian</id>
+				<url>http://112.25.14.23:7000/JiuTian/bizcontrol/BuyGameTool_ota</url>
+			</fee_id>
+			<fee_id>
+				<id>hero</id>
+				<url>http://112.25.14.23:7000/hero/bizcontrol/BuyGameTool_ota</url>
+			</fee_id>
+		</fee_ids>
+	
+		<!--神州付充值接口 -->
+        <szf_rechange_url>http://112.25.14.24/paybycard/pay.php</szf_rechange_url>
+
+		<!--网游充值接口  -->
+		<ng_rechange_url>http://112.25.14.23:7000/hero/bizcontrol/BuyGameTool_ota</ng_rechange_url>
+		
+		<!--加点接口 -->
+		<add_point_url>http://112.25.14.24/usercenter/addpoint.php</add_point_url>
+
+		<!--扣点接口 --> 
+		<sub_point_url>http://112.25.14.24/usercenter/deductpoint.php</sub_point_url>
+
+		<!--查询点数接口 -->
+		<query_point_url>http://112.25.14.24/usercenter/querypoint.php</query_point_url>
+
+		<!--查询消费记录接口 -->
+		<query_deduct_list_url>http://112.25.14.24/usercenter/querydeductlist.php</query_deduct_list_url>
+
+		<!--查询充值记录 -->
+		<query_rechage_list_url>http://112.25.14.24/usercenter/queryaddlist.php</query_rechage_list_url>
+
+		
+		<now_version>16</now_version>
+		<type_string>其他,坐骑,药品,强化,功能,热卖</type_string>
+		<notice_string>欢迎您光临游戏商城，我们会在公测后陆续推出热卖商品和增值服务，回馈大家对我们内测的支持，敬请期待！</notice_string>
+		<bag_upgrade_data>装备包裹扩容（增加8格）,56;药品包裹扩容（增加8格）,36;材料包裹扩容（增加8格）,37;任务包裹扩容（增加8格）,38;宝物包裹扩容（增加8格）,39;仓库空间扩容（增加8格）,99</bag_upgrade_data>
+	</config>
+</include>

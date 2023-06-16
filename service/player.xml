@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x4</id>
+		<name>playerService</name>
+		<class>hero.player.service.PlayerServiceImpl</class>
+		<version>1.0.0</version>
+		<description>管理和维护玩家对象</description>
+		<author>JOJO</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x403">hero.player.clienthandler.ReleaseSoul</clientprocess>
+		<clientprocess id="0x406">hero.player.clienthandler.ExitGame</clientprocess>
+	    <clientprocess id="0x407">hero.player.clienthandler.Walk</clientprocess>
+		<clientprocess id="0x410">hero.player.clienthandler.AcceptRevive</clientprocess>
+		<clientprocess id="0x411">hero.player.clienthandler.ReturnToRoleList</clientprocess>
+		<clientprocess id="0x412">hero.player.clienthandler.InitRoleSecondly</clientprocess>
+		<clientprocess id="0x413">hero.player.clienthandler.SetShortcutKey</clientprocess>
+		<clientprocess id="0x414">hero.player.clienthandler.SetKeyOfWalking</clientprocess>
+		<clientprocess id="0x415">hero.player.clienthandler.ViewOtherBaseInfo</clientprocess>
+        <clientprocess id="0x417">hero.player.clienthandler.ViewOffLinePlayerInfo</clientprocess>
+        <clientprocess id="0x418">hero.player.clienthandler.RequestInlayHeavenBook</clientprocess>
+        <clientprocess id="0x419">hero.player.clienthandler.ReplyInlayHeavenBook</clientprocess>
+        <clientprocess id="0x420">hero.player.clienthandler.RequestOpenOrCloseWorldChat</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x401">hero.player.message.RefreshRoleProperty</message><!-- 1025 -->
+		<message id="0x402">hero.player.message.RoleUpgradeNotify</message><!-- 1026 -->
+		<message id="0x403">hero.player.message.MoneyChangeNofity</message><!-- 1027 -->
+		<message id="0x404">hero.player.message.ExperienceAddNotify</message><!-- 1028 -->
+		<message id="0x405">hero.player.message.ResponseRoleViewInfo</message><!-- 1029 -->
+		<message id="0x408">hero.player.message.OtherWalkNotify</message><!-- 1031 -->
+		<message id="0x409">hero.player.message.VocationChangeNotify</message>
+		<message id="0x410">hero.player.message.ReviveNotify</message>
+		<message id="0x411">hero.player.message.ClearRoleSuccNotify</message>
+		<message id="0x412">hero.player.message.ShortcutKeyListNotify</message>
+		<message id="0x413">hero.player.message.ResponsePlayerBaseInfo</message>
+        <message id="0x416">hero.player.message.ResponsePlayerMarryStatus</message>
+        <message id="0x419">hero.player.message.ResponseInlayHeavenBook</message>
+        <message id="0x420">hero.player.message.AskChooseHeavenBookPosition</message>
+        <message id="0x421">hero.player.message.ResponseHeavenBookList</message>
+        <message id="0x422">hero.player.message.HotKeySumByMedicament</message>
+        <message id="0x423">hero.player.message.NextGiftTimeNotify</message>
+	</messages>	
+	<para>
+		<countdown_gift_data_path>res/data/player/</countdown_gift_data_path>
+
+		<open_countdown_gift>true</open_countdown_gift>
+		<max_length_of_name>4</max_length_of_name>
+		<max_level>60</max_level>
+		<db_update_interval>120000</db_update_interval>
+		<default_clothes_image_id_of_male>352</default_clothes_image_id_of_male>
+		<default_clothes_animation_id_of_male>1025</default_clothes_animation_id_of_male>
+		<default_clothes_image_id_of_female>352</default_clothes_image_id_of_female>
+		<default_clothes_animation_id_of_female>1025</default_clothes_animation_id_of_female>
+		<init_hp_of_wu_zhe>269</init_hp_of_wu_zhe>
+		<init_hp_of_magic>218</init_hp_of_magic>
+		<init_hp_of_you_xia>239</init_hp_of_you_xia>
+		<init_hp_of_mu_shi>220</init_hp_of_mu_shi>
+		<init_fore_of_wu_zhe>80</init_fore_of_wu_zhe>
+		<init_mp_of_magic>114</init_mp_of_magic>
+		<init_mp_of_you_xia>90</init_mp_of_you_xia>
+		<init_mp_of_mu_shi>110</init_mp_of_mu_shi>
+		
+		<!-- 肢体 -->
+		<init_hair_long_male_icon_id>309</init_hair_long_male_icon_id>
+		<init_hair_long_female_icon_id>309</init_hair_long_female_icon_id>
+		<init_hair_mo_male_icon_id>309</init_hair_mo_male_icon_id>
+		<init_hair_mo_female_icon_id>309</init_hair_mo_female_icon_id>
+		
+		<init_hair_long_male_image_id>305</init_hair_long_male_image_id>
+		<init_hair_long_male_animation>301</init_hair_long_male_animation>
+		<init_hair_long_female_image_id>307</init_hair_long_female_image_id>
+		<init_hair_long_female_animation_id>301</init_hair_long_female_animation_id>
+		<init_hair_mo_male_image_id>301</init_hair_mo_male_image_id>
+		<init_hair_mo_male_animation>301</init_hair_mo_male_animation>
+		<init_hair_mo_female_image_id>303</init_hair_mo_female_image_id>
+		<init_hair_mo_female_animation_id>301</init_hair_mo_female_animation_id>
+		<init_head_male_image_id>351</init_head_male_image_id>
+		<init_head_male_animation_id>351</init_head_male_animation_id>
+		<init_head_female_image_id>351</init_head_female_image_id>
+		<init_head_female_animation_id>351</init_head_female_animation_id>
+		<init_leg_male_image_id>353</init_leg_male_image_id>
+		<init_leg_male_animation_id>353</init_leg_male_animation_id>
+		<init_leg_female_image_id>354</init_leg_female_image_id>
+		<init_leg_female_animation_id>353</init_leg_female_animation_id>
+		<init_tail_male_image_id>355</init_tail_male_image_id>
+		<init_tail_male_animation_id>355</init_tail_male_animation_id>
+		<init_tail_female_image_id>355</init_tail_female_image_id>
+		<init_tail_female_animation_id>355</init_tail_female_animation_id>
+		
+		<!-- 其他 -->
+		<init_long_die_image_id>330</init_long_die_image_id>
+		<init_long_die_animation_id>330</init_long_die_animation_id>
+		<init_mo_die_image_id>330</init_mo_die_image_id>
+		<init_mo_die_animation_id>330</init_mo_die_animation_id>
+		
+		
+		<!-- 新建立角色时候得到的默认展示信息.务必按照 头,胸,武器 -->
+		<init_new_male_role_armor_view_wu_zhe>1201131,1203007,1108013</init_new_male_role_armor_view_wu_zhe>
+		<init_new_male_role_armor_view_you_xia>1301131,1303015,1110013</init_new_male_role_armor_view_you_xia>
+		<init_new_male_role_armor_view_fa_shi>1401129,1403014,1111013</init_new_male_role_armor_view_fa_shi>
+		<init_new_male_role_armor_view_mu_shi>1401129,1403014,1112015</init_new_male_role_armor_view_mu_shi>
+
+		<!-- 新建立角色时候装备获得 -->
+		<init_weapon_id_of_wu_zhe>1108001</init_weapon_id_of_wu_zhe>
+        <init_weapon_id_of_wu_zhe_second>1112001</init_weapon_id_of_wu_zhe_second><!--初始化加背包里-->
+		<init_chothes_image_id_of_wu_zhe>3001</init_chothes_image_id_of_wu_zhe>
+		<!-- 务必按照 胸,手,腿,头 -->
+		<init_armor_id_list_of_wu_zhe>0,0,1204130,1201131</init_armor_id_list_of_wu_zhe>
+		<!-- 项链,腰带,戒子 -->
+		<init_jewelry_id_list_of_wu_zhe>0,1205001,0</init_jewelry_id_list_of_wu_zhe>
+		
+		<init_weapon_id_of_you_xia>1110001</init_weapon_id_of_you_xia>
+        <init_weapon_id_of_you_xia_second>1109001</init_weapon_id_of_you_xia_second>  <!--初始化加背包里-->
+		<init_chothes_image_id_of_you_xia>2033</init_chothes_image_id_of_you_xia>
+		<init_armor_id_list_of_you_xia>0,0,1304131,1301131</init_armor_id_list_of_you_xia>
+		<init_jewelry_id_list_of_you_xia>0,1205001,0</init_jewelry_id_list_of_you_xia>
+
+		<init_weapon_id_of_magic>1111001</init_weapon_id_of_magic>
+        <init_weapon_id_of_magic_second>1112334</init_weapon_id_of_magic_second>  <!--初始化加背包里-->
+		<init_chothes_image_id_of_magic>1025</init_chothes_image_id_of_magic>
+		<init_armor_id_list_of_magic>0,0,0,1401129</init_armor_id_list_of_magic>
+		<init_jewelry_id_list_of_magic>0,1205001,1207001</init_jewelry_id_list_of_magic>
+
+		<init_weapon_id_of_mu_shi>1111001</init_weapon_id_of_mu_shi>
+        <init_weapon_id_of_mu_shi_second>1108336</init_weapon_id_of_mu_shi_second>     <!--初始化加背包里-->
+		<init_chothes_image_id_of_mu_shi>1025</init_chothes_image_id_of_mu_shi>
+		<init_armor_id_list_of_mu_shi>0,0,0,1401129</init_armor_id_list_of_mu_shi>
+		<init_jewelry_id_list_of_mu_shi>0,1205001,1207001</init_jewelry_id_list_of_mu_shi>
+
+		<use_novice>0</use_novice> <!--是否使用老版本新手教程 1:使用   0:不使用(请不要随意设置为1)-->
+		<free_attack_interval>3000</free_attack_interval>
+		<born_map_id_of_long_shan>415</born_map_id_of_long_shan>
+		<born_point_of_long_shan>25,11</born_point_of_long_shan>
+   		<born_map_id_of_he_mu_du>417</born_map_id_of_he_mu_du>
+   		<born_point_of_he_mu_du>25,11</born_point_of_he_mu_du>
+   		<init_medicament_of_wu_zhe></init_medicament_of_wu_zhe>
+   		<init_medicament_of_magic></init_medicament_of_magic>
+        <init_medicament_of_mu_shi></init_medicament_of_mu_shi>
+        <init_medicament_of_you_xia></init_medicament_of_you_xia>
+   		<init_skill_of_wu_zhe>1,18</init_skill_of_wu_zhe>
+   		<init_skill_of_magic>5001,5018</init_skill_of_magic>
+   		<init_skill_of_you_xia>1,18</init_skill_of_you_xia>
+   		<init_skill_of_mu_shi>5001,5018</init_skill_of_mu_shi>
+   		<init_surplus_skill_point>0</init_surplus_skill_point>
+   		<upgradeSkillPoint>1</upgradeSkillPoint> <!-- 每升1级获得的技能点 -->
+        <init_money>0</init_money>
+        <!--创建角色的时候为各职业提升1级技能等级-->
+        <init_li_shi_skill>17102</init_li_shi_skill>
+        <init_chi_hou_skill>17842</init_chi_hou_skill>
+        <init_fa_shi_skill>27002</init_fa_shi_skill>
+        <init_wu_yi_skill>27728</init_wu_yi_skill>
+        <forget_skill_back_point>2</forget_skill_back_point>
+
+   		<init_hat_image_id_of_mu_shi>7001</init_hat_image_id_of_mu_shi>
+   		<init_hat_image_id_of_magic>7001</init_hat_image_id_of_magic>
+   		<init_hat_image_id_of_wu_zhe>7001</init_hat_image_id_of_wu_zhe>
+   		<init_hat_image_id_of_you_xia>7001</init_hat_image_id_of_you_xia>
+
+        <!--获得经验系数-->
+        <exp_modulus>2.0</exp_modulus>
+        <!--此经验倍数开始时间-->
+        <exp_modulus_start_time>2011-05-21 06:00:00</exp_modulus_start_time>
+        <!--此经验倍数结束时间-->
+        <exp_modulus_end_time>2011-05-22 23:59:59</exp_modulus_end_time>
+	</para>
+	<other>
+		<!--赠送的默认红蓝药剂编号(用于快捷键)-->
+		<default_red_medicament>310001</default_red_medicament>
+		<default_blue_medicament>310012</default_blue_medicament>
+		<!-- 结构:起等级,始等级,布衣,轻甲,重甲 -->
+		<default_armor_1>1,5,3001,1001,2033,1025,1025,1025</default_armor_1>
+		<default_armor_2>6,15,3017,1001,2009,1025,1013,1001</default_armor_2>
+		<default_armor_3>16,25,3021,1001,2013,1025,1005,1001</default_armor_3>
+		<default_armor_4>26,35,3021,1001,2013,1025,1033,1001</default_armor_4>
+		<default_armor_5>36,45,3029,1001,2029,1025,1009,1001</default_armor_5>
+		<default_armor_6>46,55,3033,1001,2025,1001,1001,1001</default_armor_6>
+		<default_armor_7>56,65,3037,1001,2021,1001,1029,1001</default_armor_7>
+		<default_armor_8>66,75,3041,1001,2017,1001,1017,1001</default_armor_8>
+		<default_armor_9>76,85,3045,1001,2005,1001,1021,1001</default_armor_9>
+		<!--起等级,始等级,剑,弓,仗,锤,匕首-->
+		<default_weapon_1>1,5,2808,2801,2710,2701,2908,2901,2601,2601,2501,2501</default_weapon_1>
+		<default_weapon_2>6,15,2802,2801,2709,2701,2910,2901,2602,2601,2502,2501</default_weapon_2>
+		<default_weapon_3>16,25,2810,2801,2707,2701,2909,2901,2603,2601,2503,2501</default_weapon_3>
+		<default_weapon_4>26,35,2801,2801,2706,2701,2901,2901,2604,2601,2504,2501</default_weapon_4>
+		<default_weapon_5>36,45,2809,2801,2705,2701,2902,2901,2605,2601,2505,2501</default_weapon_5>
+		<default_weapon_6>46,55,2803,2801,2703,2701,2903,2901,2606,2601,2506,2501</default_weapon_6>
+		<default_weapon_7>56,65,2804,2801,2704,2701,2904,2901,2607,2601,2507,2501</default_weapon_7>
+		<default_weapon_8>66,75,2805,2801,2708,2701,2905,2901,2608,2601,2508,2501</default_weapon_8>
+		<default_weapon_9>76,85,2806,2801,2702,2701,2906,2901,2609,2601,2509,2501</default_weapon_9>
+	</other>
+</include>

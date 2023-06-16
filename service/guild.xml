@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0xa</id>
+		<name>guild</name>
+		<class>hero.guild.service.GuildServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Luke</author>
+	</service>
+	<clientprocesses>
+	       <clientprocess id="0xa01">hero.guild.clientHandler.GuildOperation</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0xa02">hero.guild.message.MemberRankChangeNotify</message>
+		<message id="0xa03">hero.guild.message.GuildDisbandNotify</message>
+		<message id="0xa04">hero.guild.message.ResponseMemberList</message>
+		<message id="0xa05">hero.guild.message.GuildInviteNotify</message>
+		<message id="0xa06">hero.guild.message.GuildChangeNotify</message>
+		<message id="0xa07">hero.guild.message.RefreshMemberListNotify</message>
+		<message id="0xa08">hero.guild.message.ResponseGuildInfo</message>
+		<message id="0xa09">hero.guild.message.GuildUpNotify</message>
+	</messages>
+	<para>
+		<level_of_creator>20</level_of_creator>
+		<money_of_create>300000</money_of_create>
+		<officer_sum>5</officer_sum>
+	</para>
+</include>

@@ -1,0 +1,632 @@
+[2011-05-25 13:55:30,265]-ERROR (hero.map.service.MapModelDataDict:196)|地图名称 和 地图 ID 不匹配，找策划去！
+[2011-05-25 13:55:30,296]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,296]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,453]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,515]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,546]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,546]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,718]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,765]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:31,031]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-25 15:24:29,343]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:24:29,859]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-25 15:26:04,656]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:26:05,078]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-25 15:31:39,312]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:31:39,718]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-25 15:32:09,281]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[cvad11] login....
+[2011-05-25 15:32:09,281]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 月光仙界
+[2011-05-25 15:32:09,531]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 417
+[2011-05-25 15:32:09,531]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:32:09,531]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4315
+[2011-05-25 15:32:09,546]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:32:09,562]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:32:09,562]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:32:09,562]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:32:09,578]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:32:09,578]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-25 15:32:09,578]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-25 15:32:09,593]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-25 15:32:09,593]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-25 15:32:09,593]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-25 15:32:09,593]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 966
+[2011-05-25 15:32:09,593]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:32:09,593]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:32:09,609]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:32:09,812]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:32:09,812]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:32:11,250]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[cvad11] login....
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 月光仙界
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 417
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4315
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-25 15:34:08,546]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 966
+[2011-05-25 15:34:08,546]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:34:08,562]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:34:08,562]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:34:08,812]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:34:08,812]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:34:10,046]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-25 15:37:19,359]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:37:19,687]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[cvad11] login....
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 月光仙界
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 417
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:37:36,828]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4315
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:37:36,828]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-25 15:37:36,843]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 966
+[2011-05-25 15:37:36,843]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:37:36,843]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:37:36,843]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:37:37,046]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:37:37,046]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:37:38,406]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-25 15:39:32,421]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4149
+[2011-05-25 15:39:32,421]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:225
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:225
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:201
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:201
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=11
+[2011-05-25 15:39:32,437]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 903
+[2011-05-25 15:39:32,437]-INFO  (hero.map.clienthandler.SwitchMap:129)|switch map end ...
+[2011-05-25 15:39:33,187]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-25 15:39:33,187]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:2
+[2011-05-25 15:39:33,187]-INFO  (hero.map.message.ResponseMapDecorateData:85)|warn:策划未填写动画ID,mapid=418;mapname=月光岛
+[2011-05-25 15:42:01,218]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 8593
+[2011-05-25 15:42:01,218]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=0
+[2011-05-25 15:42:01,218]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 1401
+[2011-05-25 15:42:02,078]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:23
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:172
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:150
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:128
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:157
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:130
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:5
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:152
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:112
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:108
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:139
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:132
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:118
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:217
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:218
+[2011-05-25 15:42:02,078]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:103
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:155
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:162
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:178
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:177
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:180
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:179
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:149
+[2011-05-25 15:42:02,093]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:151
+[2011-05-25 15:43:16,531]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 8593
+[2011-05-25 15:43:16,531]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=0
+[2011-05-25 15:43:16,531]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 1485
+[2011-05-25 15:43:17,187]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:23
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:172
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:150
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:128
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:157
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:130
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:5
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:152
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:112
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:108
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:139
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:132
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:118
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:217
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:218
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:103
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:155
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:162
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:178
+[2011-05-25 15:43:17,187]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:177
+[2011-05-25 15:43:17,203]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:180
+[2011-05-25 15:43:17,203]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:179
+[2011-05-25 15:43:17,203]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:149
+[2011-05-25 15:43:17,203]-INFO  (hero.map.message.ResponseSceneElement:65)|120 map 图片ID:151
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[1ettoo] login....
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 月桂草原
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 4
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:44:07,046]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4585
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:44:07,046]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-25 15:44:07,046]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-25 15:44:07,046]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=11
+[2011-05-25 15:44:07,046]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 613
+[2011-05-25 15:44:07,046]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:44:07,062]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:44:07,062]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:44:07,265]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:44:07,265]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:44:08,468]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:3
+[2011-05-25 15:44:08,468]-INFO  (hero.map.message.ResponseMapDecorateData:85)|warn:策划未填写动画ID,mapid=4;mapname=月桂草原
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[cvad11] login....
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光村
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 401
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:44:27,000]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4813
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:44:27,000]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:44:27,000]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:44:27,000]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=3
+[2011-05-25 15:44:27,000]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 659
+[2011-05-25 15:44:27,000]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:44:27,015]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:44:27,015]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:44:27,250]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:44:27,250]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:44:28,468]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:12
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[cvad11] login....
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 月光村
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 408
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-25 15:44:55,546]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4807
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-25 15:44:55,546]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-25 15:44:55,562]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:44:55,562]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:44:55,562]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=3
+[2011-05-25 15:44:55,562]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 659
+[2011-05-25 15:44:55,562]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-25 15:44:55,562]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-25 15:44:55,562]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-25 15:44:55,796]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-25 15:44:55,796]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-25 15:44:56,984]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:12
+[2011-05-25 15:45:09,046]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4315
+[2011-05-25 15:45:09,046]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-25 15:45:09,062]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 966
+[2011-05-25 15:45:09,062]-INFO  (hero.map.clienthandler.SwitchMap:129)|switch map end ...
+[2011-05-25 15:45:09,656]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-25 15:45:09,656]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-25 17:56:35,796]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+

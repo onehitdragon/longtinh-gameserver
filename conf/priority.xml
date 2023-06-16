@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<!-- priority=1 表示非即时处理 , 0表示即时处理， 不配的默认为即时处理-->
+	<clienthandler id="0xc01"  priority="1"><!--3073-->
+			hero.chat.ChatClientHandler
+	</clienthandler>
+</include>

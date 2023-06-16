@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x1e</id>
+		<name>chat</name>
+		<class>hero.chat.service.ChatServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Luke</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x1e01">hero.chat.clienthandler.ChatClientHandler</clientprocess>
+		<clientprocess id="0x1e02">hero.chat.clienthandler.ShowPlayerInfo</clientprocess>
+	</clientprocesses>	
+	<messages>
+		<message id="0x1e01">hero.chat.message.ChatResponse</message><!-- 13 -->
+		<message id="0x1e02">hero.chat.message.GetGoodsNofity</message><!-- 13 -->		
+	</messages>
+	<chatservice>
+		<maxPri>2000</maxPri><!-- 每个用户队列最大个数 -->
+		<maxWorld>300</maxWorld><!-- 世界聊天最大个数 -->
+		<maxItem>2000</maxItem><!--  最大用户数量 -->
+		<timeOut>5000</timeOut><!--超时-->
+		<colorNum>9</colorNum><!--颜色数量-->
+		<color1>0xe600ee</color1><!-- 玩家 私人 -->
+		<color2>0xff7800</color2><!-- 玩家 世界 -->
+		<color3>0x000000</color3><!-- 玩家 地图 -->
+		<color4>0xff0000</color4><!-- NPC world 消息 -->
+		<color5>0x2073c1</color5><!-- NPC 私人 -->
+    	<color6>0xff0000</color6><!-- NPC world 消息 -->
+		<color7>0xff0000</color7><!-- NPC 私人 -->
+		<color8>0x0c9feb</color8><!-- 玩家 队伍 -->
+		<color9>0x59c600</color9><!-- 玩家 工会 -->
+	</chatservice>
+</include>

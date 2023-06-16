@@ -1,0 +1,207 @@
+10
+
+dir
+3525
+svn://192.168.0.244/legen/server/trunk/downloads/highend
+svn://192.168.0.244/legen/server
+
+
+
+2011-04-29T16:05:46.822000Z
+3219
+jiaodongjie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9cc1d1f7-8ef4-fc41-9fa3-d213694019ca
+
+npc
+dir
+
+other
+dir
+
+naked
+dir
+
+hair
+dir
+
+hmap
+dir
+
+ui_v5
+dir
+
+prop_v5
+dir
+
+hmonster
+dir
+
+logo
+dir
+
+equipeffect
+dir
+
+ingame
+dir
+
+hmmap
+dir
+
+task
+dir
+
+weaponeffect
+dir
+
+hsmap
+dir
+
+icon.png
+file
+
+
+
+
+2011-05-21T03:58:30.000000Z
+9c2a723d97852f957e1b6f168a351a99
+2011-04-13T05:57:35.977444Z
+2694
+zhengli
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2563
+
+map
+dir
+
+hfloat
+dir
+
+land
+dir
+
+prop
+dir
+
+music
+dir
+
+weaponattack
+dir
+
+equip
+dir
+
+decorate
+dir
+
+Thumbs.db
+file
+
+
+
+
+2011-05-21T03:58:30.000000Z
+9c6ea4337e643a2bf266d80372081b37
+2011-04-26T09:25:45.493375Z
+3123
+jiaodongjie
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4608
+
+sys_v5
+dir
+
+pet
+dir
+
+hnpc
+dir
+
+weapon
+dir
+
+orge
+dir
+
+building
+dir
+
+tile
+dir
+
+role
+dir
+
+states
+dir
+
+ingame_v5
+dir
+
+loading
+dir
+
+ui
+dir
+
+sys
+dir
+
+skill
+dir
+

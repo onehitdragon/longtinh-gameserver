@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x5c</id>
+		<name>gatherService</name>
+		<class>hero.gather.service.GatherServerImpl</class>
+		<version>1.0.0</version>
+		<author>lulin</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x5c01">hero.gather.clientHandler.UseGourdClientHandler</clientprocess>
+		<clientprocess id="0x5c02">hero.gather.clientHandler.ViewGourdClientHandler</clientprocess>
+		<clientprocess id="0x5c03">hero.gather.clientHandler.RefinedClientHandler</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x5c10">hero.gather.message.SoulMessage</message>
+		<message id="0x5c11">hero.gather.message.TakeSoulMessage</message>
+		<message id="0x5c12">hero.gather.message.RefinedListMessage</message>
+		<message id="0x5c13">hero.gather.message.RefinedNeedGoodsMessage</message>
+		<message id="0x5c14">hero.gather.message.UseGourdMessage</message>
+		<message id="0x5c15">hero.gather.message.GatherSkillNotify</message>
+		<message id="0x5c16">hero.gather.message.GourdNotify</message>
+	</messages>
+	<para>
+	    <gather_data_dir>res/data/gather/</gather_data_dir>
+	    <souls_data_dir>res/data/gather/souls/</souls_data_dir>
+	</para>
+</include>

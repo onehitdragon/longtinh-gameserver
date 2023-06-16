@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <name>有奖竞猜</name>
+    <isOpen>是</isOpen>
+    <questionSum>10</questionSum>
+    <point>1</point>
+    <awardID>1</awardID>
+    <refreshType>2</refreshType>
+    <refreshDay>1</refreshDay>
+    <refreshTimeSum>1</refreshTimeSum>
+    <refresh1StartTime>13:00</refresh1StartTime>
+    <refresh1EndTime>15:00</refresh1EndTime>
+  </data>
+</include>

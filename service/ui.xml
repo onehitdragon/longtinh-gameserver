@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x1a</id>
+		<name>ui</name>
+		<class>hero.ui.service.UIServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<messages>
+		<message id="0x1a01">hero.ui.message.ResponseEuipmentPackageChange</message><!-- 3585 -->
+		<message id="0x1a02">hero.ui.message.ResponseSinglePackageChange</message><!-- 3586 -->
+		<message id="0x1a03">hero.ui.message.NotifyAddGoods2SinglePackage</message><!-- 3587 -->
+		<message id="0x1a04">hero.ui.message.ReturnMainUI</message><!-- 3588 -->
+		<message id="0x1a05">hero.ui.message.CloseUIMessage</message>
+		<message id="0x1a06">hero.ui.message.NotifyListItemMessage</message>
+	</messages>
+	<para>
+	</para>
+</include>

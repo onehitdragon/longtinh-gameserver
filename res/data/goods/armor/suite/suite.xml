@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <name>屠杀套装</name>
+    <e1>16088</e1>
+    <e2>19088</e2>
+    <e3>22088</e3>
+    <e4>25088</e4>
+    <physicsDeathblowLevel>21</physicsDeathblowLevel>
+    <description>+21 物理暴击</description>
+  </data>
+  <data>
+    <id>2</id>
+    <name>慈悲套装</name>
+    <e1>16089</e1>
+    <e2>19089</e2>
+    <e3>22089</e3>
+    <e4>25089</e4>
+    <magicDeathblowLevel>21</magicDeathblowLevel>
+    <description>+21 魔法暴击</description>
+  </data>
+  <data>
+    <id>3</id>
+    <name>迷雾套装</name>
+    <e1>16092</e1>
+    <e2>19092</e2>
+    <e3>22092</e3>
+    <e4>25092</e4>
+    <strength>16</strength>
+    <luck>15</luck>
+    <description>+16 力量\n+15 幸运</description>
+  </data>
+  <data>
+    <id>4</id>
+    <name>幽静套装</name>
+    <e1>16093</e1>
+    <e2>19093</e2>
+    <e3>22093</e3>
+    <e4>25093</e4>
+    <spirit>16</spirit>
+    <magicDeathblowLevel>15</magicDeathblowLevel>
+    <description>+16 精神\n+15 魔法暴击</description>
+  </data>
+  <data>
+    <id>5</id>
+    <name>荒芜套装</name>
+    <e1>16096</e1>
+    <e2>19096</e2>
+    <e3>22096</e3>
+    <e4>25096</e4>
+    <strength>20</strength>
+    <hitLevel>22</hitLevel>
+    <description>+20 力量\n+22 命中</description>
+  </data>
+  <data>
+    <id>6</id>
+    <name>庭院套装</name>
+    <e1>16097</e1>
+    <e2>19097</e2>
+    <e3>22097</e3>
+    <e4>25097</e4>
+    <spirit>20</spirit>
+    <luck>22</luck>
+    <description>+20 精神\n+22 幸运</description>
+  </data>
+  <data>
+    <id>7</id>
+    <name>龙坛套装</name>
+    <e1>16098</e1>
+    <e2>19098</e2>
+    <e3>22098</e3>
+    <e4>25098</e4>
+    <stamina>22</stamina>
+    <sanctity>20</sanctity>
+    <umbra>20</umbra>
+    <water>20</water>
+    <fire>20</fire>
+    <soil>20</soil>
+    <description>+22 耐力\n+20 所有抗性</description>
+  </data>
+  <data>
+    <id>8</id>
+    <name>力士套装</name>
+    <e1>16105</e1>
+    <e2>19105</e2>
+    <e3>22105</e3>
+    <e4>25105</e4>
+    <luck>26</luck>
+    <physicsDeathblowLevel>35</physicsDeathblowLevel>
+    <description>+26 幸运\n+35 物理暴击</description>
+  </data>
+  <data>
+    <id>9</id>
+    <name>鼓手套装</name>
+    <e1>16106</e1>
+    <e2>19106</e2>
+    <e3>22106</e3>
+    <e4>25106</e4>
+    <luck>26</luck>
+    <magicDeathblowLevel>35</magicDeathblowLevel>
+    <description>+26 幸运\n+35 魔法暴击</description>
+  </data>
+  <data>
+    <id>10</id>
+    <name>侍卫套装</name>
+    <e1>16107</e1>
+    <e2>19107</e2>
+    <e3>22107</e3>
+    <e4>25107</e4>
+    <stamina>21</stamina>
+    <luck>20</luck>
+    <duckLevel>20</duckLevel>
+    <description>+21 耐力\n+20 幸运\n+20 闪避</description>
+  </data>
+  <data>
+    <id>11</id>
+    <name>金刚套装</name>
+    <e1>16114</e1>
+    <e2>19114</e2>
+    <e3>22114</e3>
+    <e4>25114</e4>
+    <luck>34</luck>
+    <physicsDeathblowLevel>45</physicsDeathblowLevel>
+    <description>+34 幸运\n+45 物理暴击</description>
+  </data>
+  <data>
+    <id>12</id>
+    <name>天擂套装</name>
+    <e1>16115</e1>
+    <e2>19115</e2>
+    <e3>22115</e3>
+    <e4>25115</e4>
+    <spirit>35</spirit>
+    <luck>44</luck>
+    <description>+35 精神\n+44 幸运</description>
+  </data>
+  <data>
+    <id>13</id>
+    <name>百夫套装</name>
+    <e1>16116</e1>
+    <e2>19116</e2>
+    <e3>22116</e3>
+    <e4>25116</e4>
+    <defense>1080</defense>
+    <sanctity>25</sanctity>
+    <umbra>25</umbra>
+    <water>25</water>
+    <fire>25</fire>
+    <soil>25</soil>
+    <description>+1080 防御\n+25 所有抗性</description>
+  </data>
+  <data>
+    <id>14</id>
+    <name>密林套装</name>
+    <e1>17124</e1>
+    <e2>20124</e2>
+    <e3>23124</e3>
+    <e4>26124</e4>
+    <physicsDeathblowLevel>11</physicsDeathblowLevel>
+    <description>+11 物理暴击</description>
+  </data>
+  <data>
+    <id>15</id>
+    <name>绿林套装</name>
+    <e1>17125</e1>
+    <e2>20125</e2>
+    <e3>23125</e3>
+    <e4>26125</e4>
+    <magicDeathblowLevel>11</magicDeathblowLevel>
+    <description>+11 魔法暴击</description>
+  </data>
+  <data>
+    <id>16</id>
+    <name>毒刺套装</name>
+    <e1>17128</e1>
+    <e2>20128</e2>
+    <e3>23128</e3>
+    <e4>26128</e4>
+    <luck>21</luck>
+    <description>+21 幸运</description>
+  </data>
+  <data>
+    <id>17</id>
+    <name>龙山套装</name>
+    <e1>17129</e1>
+    <e2>20129</e2>
+    <e3>23129</e3>
+    <e4>26129</e4>
+    <luck>21</luck>
+    <description>+21 幸运</description>
+  </data>
+  <data>
+    <id>18</id>
+    <name>迷失套装</name>
+    <e1>17132</e1>
+    <e2>20132</e2>
+    <e3>23132</e3>
+    <e4>26132</e4>
+    <physicsDeathblowLevel>16</physicsDeathblowLevel>
+    <hitLevel>15</hitLevel>
+    <description>+16 物理暴击\n+15 命中</description>
+  </data>
+  <data>
+    <id>19</id>
+    <name>落日套装</name>
+    <e1>17133</e1>
+    <e2>20133</e2>
+    <e3>23133</e3>
+    <e4>26133</e4>
+    <luck>15</luck>
+    <magicDeathblowLevel>16</magicDeathblowLevel>
+    <description>+15 幸运\n+16 魔法暴击</description>
+  </data>
+  <data>
+    <id>20</id>
+    <name>神龙套装</name>
+    <e1>17136</e1>
+    <e2>20136</e2>
+    <e3>23136</e3>
+    <e4>26136</e4>
+    <luck>21</luck>
+    <physicsDeathblowLevel>21</physicsDeathblowLevel>
+    <description>+21 幸运\n+21 物理暴击</description>
+  </data>
+  <data>
+    <id>21</id>
+    <name>圣僧套装</name>
+    <e1>17137</e1>
+    <e2>20137</e2>
+    <e3>23137</e3>
+    <e4>26137</e4>
+    <stamina>16</stamina>
+    <magicDeathblowLevel>26</magicDeathblowLevel>
+    <description>+16 耐力+26 魔法暴击</description>
+  </data>
+  <data>
+    <id>22</id>
+    <name>弩手套装</name>
+    <e1>17142</e1>
+    <e2>20142</e2>
+    <e3>23142</e3>
+    <e4>26142</e4>
+    <agility>21</agility>
+    <physicsDeathblowLevel>20</physicsDeathblowLevel>
+    <hitLevel>20</hitLevel>
+    <description>+21 敏捷\n+20 物理暴击\n+20 命中</description>
+  </data>
+  <data>
+    <id>23</id>
+    <name>剑舞套装</name>
+    <e1>17143</e1>
+    <e2>20143</e2>
+    <e3>23143</e3>
+    <e4>26143</e4>
+    <mp>310</mp>
+    <luck>30</luck>
+    <description>+310 魔法值\n+30 幸运</description>
+  </data>
+  <data>
+    <id>24</id>
+    <name>神眼套装</name>
+    <e1>17148</e1>
+    <e2>20148</e2>
+    <e3>23148</e3>
+    <e4>26148</e4>
+    <agility>25</agility>
+    <stamina>24</stamina>
+    <luck>30</luck>
+    <description>+25 敏捷\n+24 耐力\n+30 幸运</description>
+  </data>
+  <data>
+    <id>25</id>
+    <name>天舞套装</name>
+    <e1>17149</e1>
+    <e2>20149</e2>
+    <e3>23149</e3>
+    <e4>26149</e4>
+    <inte>25</inte>
+    <spirit>30</spirit>
+    <luck>24</luck>
+    <description>+25 智力\n+30 精神\n+24 幸运</description>
+  </data>
+  <data>
+    <id>26</id>
+    <name>神秘套装</name>
+    <e1>18094</e1>
+    <e2>21094</e2>
+    <e3>24094</e3>
+    <e4>27094</e4>
+    <inte>11</inte>
+    <description>+11 智力</description>
+  </data>
+  <data>
+    <id>27</id>
+    <name>仙湖套装</name>
+    <e1>18096</e1>
+    <e2>21096</e2>
+    <e3>24096</e3>
+    <e4>27096</e4>
+    <magicDeathblowLevel>21</magicDeathblowLevel>
+    <description>+21 魔法暴击</description>
+  </data>
+  <data>
+    <id>28</id>
+    <name>献祭套装</name>
+    <e1>18098</e1>
+    <e2>21098</e2>
+    <e3>24098</e3>
+    <e4>27098</e4>
+    <inte>15</inte>
+    <luck>16</luck>
+    <description>+15 智力\n+16 幸运</description>
+  </data>
+  <data>
+    <id>29</id>
+    <name>护法套装</name>
+    <e1>18100</e1>
+    <e2>21100</e2>
+    <e3>24100</e3>
+    <e4>27100</e4>
+    <spirit>21</spirit>
+    <luck>21</luck>
+    <description>+21 精神\n+21 幸运</description>
+  </data>
+  <data>
+    <id>30</id>
+    <name>封魔套装</name>
+    <e1>18101</e1>
+    <e2>21101</e2>
+    <e3>24101</e3>
+    <e4>27101</e4>
+    <luck>21</luck>
+    <magicDeathblowLevel>21</magicDeathblowLevel>
+    <description>+21 幸运\n+21 魔法暴击</description>
+  </data>
+  <data>
+    <id>31</id>
+    <name>圣手套装</name>
+    <e1>18107</e1>
+    <e2>21107</e2>
+    <e3>24107</e3>
+    <e4>27107</e4>
+    <stamina>20</stamina>
+    <spirit>21</spirit>
+    <luck>20</luck>
+    <description>+20 耐力\n+21 精神\n+20 幸运</description>
+  </data>
+  <data>
+    <id>32</id>
+    <name>术者套装</name>
+    <e1>18108</e1>
+    <e2>21108</e2>
+    <e3>24108</e3>
+    <e4>27108</e4>
+    <luck>20</luck>
+    <magicDeathblowLevel>21</magicDeathblowLevel>
+    <hitLevel>20</hitLevel>
+    <description>+20 幸运\n+21 魔法暴击\n+20 命中</description>
+  </data>
+  <data>
+    <id>33</id>
+    <name>魂者套装</name>
+    <e1>18109</e1>
+    <e2>21109</e2>
+    <e3>24109</e3>
+    <e4>27109</e4>
+    <stamina>21</stamina>
+    <luck>20</luck>
+    <hitLevel>20</hitLevel>
+    <description>+21 耐力\n+20 幸运\n+20 命中</description>
+  </data>
+  <data>
+    <id>34</id>
+    <name>神医套装</name>
+    <e1>18116</e1>
+    <e2>21116</e2>
+    <e3>24116</e3>
+    <e4>27116</e4>
+    <stamina>15</stamina>
+    <spirit>24</spirit>
+    <luck>40</luck>
+    <description>+15 耐力\n+24 精神\n+40 幸运</description>
+  </data>
+  <data>
+    <id>35</id>
+    <name>圣者套装</name>
+    <e1>18117</e1>
+    <e2>21117</e2>
+    <e3>24117</e3>
+    <e4>27117</e4>
+    <luck>15</luck>
+    <magicDeathblowLevel>40</magicDeathblowLevel>
+    <hitLevel>24</hitLevel>
+    <description>+15 幸运\n+40 魔法暴击\n+24 命中</description>
+  </data>
+  <data>
+    <id>36</id>
+    <name>御灵套装</name>
+    <e1>18118</e1>
+    <e2>21118</e2>
+    <e3>24118</e3>
+    <e4>27118</e4>
+    <stamina>25</stamina>
+    <luck>24</luck>
+    <magicDeathblowLevel>30</magicDeathblowLevel>
+    <description>+25 耐力\n+24 幸运\n+30 魔法暴击</description>
+  </data>
+</include>

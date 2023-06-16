@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x4d</id>
+		<name>bbs</name>
+		<class>hero.dcnbbs.service.BbsServiceImpl</class>
+		<version>1.0.0</version>
+		<author>rlj</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x4d10">hero.dcnbbs.clienthandler.ShowTopicList</clientprocess>
+		<clientprocess id="0x4d11">hero.dcnbbs.clienthandler.AddTopic</clientprocess>
+		<clientprocess id="0x4d12">hero.dcnbbs.clienthandler.UploadImage</clientprocess>
+		<clientprocess id="0x4d13">hero.dcnbbs.clienthandler.ShowTopic</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x4d10">hero.dcnbbs.message.TopicListResult</message>
+	    <message id="0x4d13">hero.dcnbbs.message.TopicResult</message>
+	</messages>
+	<para>
+	</para>
+</include>

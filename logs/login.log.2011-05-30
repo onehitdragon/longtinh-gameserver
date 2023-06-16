@@ -1,0 +1,18 @@
+[2011-05-30 18:11:45,281]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-30 18:14:09,703]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-30 18:14:44,734]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20581
+[2011-05-30 18:14:44,734]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:129366
+[2011-05-30 18:14:44,734]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:-1537933146
+[2011-05-30 18:28:48,953]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<ResponseMessageQueue>
+		<maxItem>2000</maxItem>
+		<levelNum>3</levelNum>
+		<packetSize>409600</packetSize>
+		<packetOffSize>50</packetOffSize>
+		<maxPacketSize>512000</maxPacketSize>
+	</ResponseMessageQueue>
+	<logservice>
+		<service>
+			<id>0</id>
+			<name>logservice</name>
+			<class>yoyo.service.tools.log.SystemLogServiceImpl</class>
+			<version>1.0.0</version>
+			<description>record and manager log</description>
+			<author>zhengl</author>
+		</service>
+		<rootLogger>
+			<close>no</close><!-- yes|no -->
+			<format>[%d]%m%n</format>
+		</rootLogger>
+		<log name="monitor">
+			<close>no</close>
+			<filePath>log/monitor.log</filePath>
+			<timePattern></timePattern>
+			<format>%m%n</format>
+		</log>
+	</logservice>
+	<dbservice>
+		<service>
+			<id>0x1</id>
+			<name>dbService</name>
+			<class>yoyo.service.tools.database.DBServiceImpl</class>
+			<version>1.0.0</version>
+			<description>config of DB pool</description>
+			<author>zhengl</author>
+		</service>
+		<db>
+			<prox_driver>org.logicalcobwebs.proxool.ProxoolDriver</prox_driver>
+			<proxool_name>proxool</proxool_name>
+			<pool_name>HERO</pool_name>
+			<db_driver>com.mysql.jdbc.Driver</db_driver>
+			<url>jdbc:mysql://127.0.0.1:3306/xj_gameserver_9?connectTimeout=0&amp;autoReconnect=true&amp;failOverReadOnly=false</url>
+			<user_name>root</user_name>
+			<password></password>
+			<maximum-connection-count>40</maximum-connection-count>
+			<minimum-connection-count>10</minimum-connection-count>
+			<simultaneous-build-throttle>5</simultaneous-build-throttle>
+			<maximum-active-time>300000</maximum-active-time>
+			<house-keeping-test-sql>select CURRENT_DATE</house-keeping-test-sql>
+			<house-keeping-sleep-time>90000</house-keeping-sleep-time>
+			<prototype-count>5</prototype-count>
+		</db>
+	</dbservice>
+
+	<networkservice>
+		<service>
+			<id>0x2</id>
+			<name>netService</name>
+			<class>yoyo.service.base.network.NetworkServiceImpl</class>
+			<version>1.0.0</version>
+			<description>port of listener</description>
+			<author>zhengl</author>
+		</service>
+		<servers>
+			<socketserver>
+				<port>6721</port>
+				<yoyoserver>
+					yoyo.service.base.network.fuwu.SocketServer
+				</yoyoserver>
+				<handler>
+					yoyo.service.base.network.fuwu.SocketIoHandler
+				</handler>
+				<decoder>
+					yoyo.service.base.network.wrap.SocketDecoder
+				</decoder>
+				<encoder>
+					yoyo.service.base.network.wrap.SocketEncoder
+				</encoder>
+			</socketserver>
+			<httpserver>
+				<port>6722</port>
+				<yoyoserver>
+					yoyo.service.base.network.fuwu.HttpServer
+				</yoyoserver>
+				<handler>
+					yoyo.service.base.network.fuwu.HttpIoHandler
+				</handler>
+				<decoder>
+					yoyo.service.base.network.wrap.HttpDecoder
+				</decoder>
+				<encoder>
+					yoyo.service.base.network.wrap.HttpEncoder
+				</encoder>
+			</httpserver>
+		</servers>
+	</networkservice>
+	<sessionservice>
+		<service>
+			<id>0x3</id>
+			<name>sessionService</name>
+			<class>yoyo.service.base.session.SessionServiceImpl</class>
+			<version>1.0.0</version>
+			<description>manager session of client</description>
+			<author>zhengl</author>
+		</service>
+		<checkinterval>10000</checkinterval>
+		<maxunactivetime>600000</maxunactivetime>
+		<saveInterval>60000</saveInterval>
+	</sessionservice>
+</include>

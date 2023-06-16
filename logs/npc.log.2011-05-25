@@ -1,0 +1,194 @@
+[2011-05-25 13:55:28,281]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:24:26,859]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:26:02,078]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:31:36,937]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:34:25,765]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306308865765;objectid=3630
+[2011-05-25 15:34:25,765]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:34:25,765]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306308865765;objectid=3630
+[2011-05-25 15:34:25,765]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306308865765;objectid=3630
+[2011-05-25 15:35:01,968]-INFO  (hero.npc.Monster:643)|[黄蜂守卫]开始计算掉落时间,1306308901968;objectid=3637
+[2011-05-25 15:35:01,968]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:35:01,968]-INFO  (hero.npc.Monster:658)|[黄蜂守卫]完成第1个循环,1306308901968;objectid=3637
+[2011-05-25 15:35:01,968]-INFO  (hero.npc.Monster:671)|[黄蜂守卫]完成所有循环return,1306308901968;objectid=3637
+[2011-05-25 15:37:16,734]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:39:22,312]-INFO  (hero.npc.Monster:643)|[黄蜂守卫]开始计算掉落时间,1306309162312;objectid=3642
+[2011-05-25 15:39:22,312]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:39:22,312]-INFO  (hero.npc.Monster:658)|[黄蜂守卫]完成第1个循环,1306309162312;objectid=3642
+[2011-05-25 15:39:22,328]-INFO  (hero.npc.Monster:671)|[黄蜂守卫]完成所有循环return,1306309162312;objectid=3642
+[2011-05-25 15:40:22,390]-INFO  (hero.npc.Monster:643)|[蛮猴]开始计算掉落时间,1306309222390;objectid=3646
+[2011-05-25 15:40:22,390]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:40:22,390]-INFO  (hero.npc.Monster:658)|[蛮猴]完成第1个循环,1306309222390;objectid=3646
+[2011-05-25 15:40:22,390]-INFO  (hero.npc.Monster:671)|[蛮猴]完成所有循环return,1306309222390;objectid=3646
+[2011-05-25 15:40:52,296]-INFO  (hero.npc.Monster:643)|[蛮猴]开始计算掉落时间,1306309252296;objectid=3646
+[2011-05-25 15:40:52,296]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:40:52,296]-INFO  (hero.npc.Monster:658)|[蛮猴]完成第1个循环,1306309252296;objectid=3646
+[2011-05-25 15:40:52,296]-INFO  (hero.npc.Monster:671)|[蛮猴]完成所有循环return,1306309252296;objectid=3646
+[2011-05-25 15:40:56,046]-INFO  (hero.npc.Monster:643)|[蛮猴]开始计算掉落时间,1306309256046;objectid=3648
+[2011-05-25 15:40:56,046]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:40:56,046]-INFO  (hero.npc.Monster:658)|[蛮猴]完成第1个循环,1306309256046;objectid=3648
+[2011-05-25 15:40:56,046]-INFO  (hero.npc.Monster:671)|[蛮猴]完成所有循环return,1306309256046;objectid=3648
+[2011-05-25 15:41:37,093]-INFO  (hero.npc.Monster:643)|[力猿]开始计算掉落时间,1306309297093;objectid=3653
+[2011-05-25 15:41:37,093]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:41:37,093]-INFO  (hero.npc.Monster:658)|[力猿]完成第1个循环,1306309297093;objectid=3653
+[2011-05-25 15:41:37,093]-INFO  (hero.npc.Monster:671)|[力猿]完成所有循环return,1306309297093;objectid=3653
+[2011-05-25 15:45:18,375]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309518375;objectid=3630
+[2011-05-25 15:45:18,375]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:45:18,375]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309518375;objectid=3630
+[2011-05-25 15:45:18,375]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309518375;objectid=3630
+[2011-05-25 15:45:25,781]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309525781;objectid=3631
+[2011-05-25 15:45:25,781]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:45:25,781]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309525781;objectid=3631
+[2011-05-25 15:45:25,781]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309525781;objectid=3631
+[2011-05-25 15:45:30,593]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309530593;objectid=3633
+[2011-05-25 15:45:30,593]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:45:30,593]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309530593;objectid=3633
+[2011-05-25 15:45:30,593]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309530593;objectid=3633
+[2011-05-25 15:45:35,343]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309535343;objectid=3632
+[2011-05-25 15:45:35,343]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:45:35,343]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309535343;objectid=3632
+[2011-05-25 15:45:35,343]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309535343;objectid=3632
+[2011-05-25 15:45:39,453]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309539453;objectid=3631
+[2011-05-25 15:45:39,453]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:45:39,453]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309539453;objectid=3631
+[2011-05-25 15:45:39,468]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309539453;objectid=3631
+[2011-05-25 15:46:22,046]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309582046;objectid=3632
+[2011-05-25 15:46:22,046]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:46:22,046]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309582046;objectid=3632
+[2011-05-25 15:46:22,046]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309582046;objectid=3632
+[2011-05-25 15:46:25,953]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309585953;objectid=3631
+[2011-05-25 15:46:25,953]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:46:25,953]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309585953;objectid=3631
+[2011-05-25 15:46:25,953]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309585953;objectid=3631
+[2011-05-25 15:47:39,875]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309659875;objectid=3632
+[2011-05-25 15:47:39,875]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:47:39,875]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309659875;objectid=3632
+[2011-05-25 15:47:39,875]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309659875;objectid=3632
+[2011-05-25 15:47:44,015]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309664015;objectid=3631
+[2011-05-25 15:47:44,015]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:47:44,015]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309664015;objectid=3631
+[2011-05-25 15:47:44,015]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309664015;objectid=3631
+[2011-05-25 15:47:48,000]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309668000;objectid=3633
+[2011-05-25 15:47:48,000]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:47:48,000]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309668000;objectid=3633
+[2011-05-25 15:47:48,000]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309668000;objectid=3633
+[2011-05-25 15:48:30,718]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309710718;objectid=3632
+[2011-05-25 15:48:30,718]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:48:30,718]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309710718;objectid=3632
+[2011-05-25 15:48:30,718]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309710718;objectid=3632
+[2011-05-25 15:48:35,296]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309715296;objectid=3633
+[2011-05-25 15:48:35,296]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:48:35,296]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309715296;objectid=3633
+[2011-05-25 15:48:35,296]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309715296;objectid=3633
+[2011-05-25 15:48:40,125]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309720125;objectid=3631
+[2011-05-25 15:48:40,125]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:48:40,125]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309720125;objectid=3631
+[2011-05-25 15:48:40,125]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309720125;objectid=3631
+[2011-05-25 15:49:16,562]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309756562;objectid=3632
+[2011-05-25 15:49:16,562]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:49:16,562]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309756562;objectid=3632
+[2011-05-25 15:49:16,562]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309756562;objectid=3632
+[2011-05-25 15:49:19,765]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309759765;objectid=3631
+[2011-05-25 15:49:19,765]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:49:19,765]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309759765;objectid=3631
+[2011-05-25 15:49:19,765]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309759765;objectid=3631
+[2011-05-25 15:49:24,171]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309764171;objectid=3633
+[2011-05-25 15:49:24,171]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:49:24,171]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309764171;objectid=3633
+[2011-05-25 15:49:24,171]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309764171;objectid=3633
+[2011-05-25 15:49:29,531]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309769531;objectid=3636
+[2011-05-25 15:49:29,546]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:49:29,546]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309769546;objectid=3636
+[2011-05-25 15:49:29,546]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309769546;objectid=3636
+[2011-05-25 15:49:33,468]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309773468;objectid=3632
+[2011-05-25 15:49:33,468]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:49:33,468]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309773468;objectid=3632
+[2011-05-25 15:49:33,468]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309773468;objectid=3632
+[2011-05-25 15:50:27,484]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309827484;objectid=3632
+[2011-05-25 15:50:27,484]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:50:27,484]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309827484;objectid=3632
+[2011-05-25 15:50:27,484]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309827484;objectid=3632
+[2011-05-25 15:51:11,046]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309871046;objectid=3632
+[2011-05-25 15:51:11,046]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:51:11,046]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309871046;objectid=3632
+[2011-05-25 15:51:11,046]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309871046;objectid=3632
+[2011-05-25 15:51:20,000]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309880000;objectid=3636
+[2011-05-25 15:51:20,000]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:51:20,000]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309880000;objectid=3636
+[2011-05-25 15:51:20,000]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309880000;objectid=3636
+[2011-05-25 15:51:25,109]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309885109;objectid=3633
+[2011-05-25 15:51:25,109]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:51:25,125]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309885109;objectid=3633
+[2011-05-25 15:51:25,125]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309885109;objectid=3633
+[2011-05-25 15:51:32,593]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309892593;objectid=3632
+[2011-05-25 15:51:32,593]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:51:32,593]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309892593;objectid=3632
+[2011-05-25 15:51:32,593]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309892593;objectid=3632
+[2011-05-25 15:51:39,203]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309899203;objectid=3636
+[2011-05-25 15:51:39,203]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:51:39,203]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309899203;objectid=3636
+[2011-05-25 15:51:39,203]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309899203;objectid=3636
+[2011-05-25 15:51:44,281]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309904281;objectid=3633
+[2011-05-25 15:51:44,281]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:51:44,281]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309904281;objectid=3633
+[2011-05-25 15:51:44,281]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309904281;objectid=3633
+[2011-05-25 15:51:49,578]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309909578;objectid=3632
+[2011-05-25 15:51:49,578]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:51:49,593]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309909593;objectid=3632
+[2011-05-25 15:51:49,593]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309909593;objectid=3632
+[2011-05-25 15:51:54,171]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309914171;objectid=3631
+[2011-05-25 15:51:54,171]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 15:51:54,171]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309914171;objectid=3631
+[2011-05-25 15:51:54,171]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306309914171;objectid=3631
+[2011-05-25 15:51:57,296]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306309917296;objectid=3636
+[2011-05-25 15:51:57,296]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-25 15:51:57,296]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306309917296;objectid=3636
+[2011-05-25 15:51:57,296]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306309917296;objectid=3636
+[2011-05-25 16:01:53,640]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310513640;objectid=3636
+[2011-05-25 16:01:53,640]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:01:53,640]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310513640;objectid=3636
+[2011-05-25 16:01:53,640]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310513640;objectid=3636
+[2011-05-25 16:01:57,140]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310517140;objectid=3633
+[2011-05-25 16:01:57,140]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:01:57,140]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310517140;objectid=3633
+[2011-05-25 16:01:57,140]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310517140;objectid=3633
+[2011-05-25 16:02:02,718]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310522718;objectid=3631
+[2011-05-25 16:02:02,718]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:02:02,718]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310522718;objectid=3631
+[2011-05-25 16:02:02,718]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310522718;objectid=3631
+[2011-05-25 16:02:06,093]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310526093;objectid=3632
+[2011-05-25 16:02:06,093]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:02:06,093]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310526093;objectid=3632
+[2011-05-25 16:02:06,093]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310526093;objectid=3632
+[2011-05-25 16:04:28,640]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310668640;objectid=3633
+[2011-05-25 16:04:28,640]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:04:28,640]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310668640;objectid=3633
+[2011-05-25 16:04:28,640]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310668640;objectid=3633
+[2011-05-25 16:04:32,609]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306310672609;objectid=3636
+[2011-05-25 16:04:32,609]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-25 16:04:32,609]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306310672609;objectid=3636
+[2011-05-25 16:04:32,609]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306310672609;objectid=3636
+[2011-05-25 17:56:32,890]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+

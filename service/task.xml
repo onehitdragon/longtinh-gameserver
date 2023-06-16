@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0xf</id>
+		<name>task</name>
+		<class>hero.task.service.TaskServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0xf01">hero.task.clienthandler.OperateTaskList</clientprocess>
+	    <clientprocess id="0xf02">hero.task.clienthandler.TaskTransmint</clientprocess>
+	    <clientprocess id="0xf03">hero.task.clienthandler.SearchReceivableTaskList</clientprocess>
+	    <clientprocess id="0xf04">hero.task.clienthandler.TaskPushCommConfirm</clientprocess>
+	    <clientprocess id="0xf05">hero.task.clienthandler.TaskPushFeeMode</clientprocess>
+	    <clientprocess id="0xf06">hero.task.clienthandler.TaskPushGetType</clientprocess>
+	    <clientprocess id="0xf07">hero.task.clienthandler.TaskPushStartCancel</clientprocess>
+	    <clientprocess id="0xf08">hero.task.clienthandler.TaskPushEndCancel</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0xf03">hero.task.message.ReceiveableTaskList</message>
+	    <message id="0xf06">hero.task.message.ChangeNpcTaskMark</message>
+	    <message id="0xf07">hero.task.message.ResponseTaskItems</message>
+	    <message id="0xf08">hero.task.message.RefreshTaskStatus</message>
+	    <message id="0xf09">hero.task.message.NotifyMapNpcTaskMark</message>
+	    <message id="0xf10">hero.task.message.ResponseTaskView</message>
+	    <message id="0xf11">hero.task.message.TaskListChangerNotify</message>
+	    <message id="0xf12">hero.task.message.ResponseTaskPushType</message>
+        <message id="0xf13">hero.task.message.NotifyPlayerReciveRepeateTaskTimes</message>
+	</messages>
+	<taskConfig>
+		<can_receive_task_number>20</can_receive_task_number>
+		<is_proxy_compel_give>true</is_proxy_compel_give>
+		<is_sms_compel_give>true</is_sms_compel_give>
+		<is_use_push>false</is_use_push>
+		<confine_publisher_list>110,119</confine_publisher_list> <!--被限制不弹任务推广的渠道ID-->
+	</taskConfig>
+	<para>
+	    <task_path>res/data/task</task_path>
+	    <task_description_path>res/data/task/dialogue</task_description_path>
+	    <escort_npc_target_data_path>res/data/task/target/EscortNpc</escort_npc_target_data_path>
+	    <found_path_target_data_path>res/data/task/target/FoundPath</found_path_target_data_path>
+	    <goods_target_data_path>res/data/task/target/Goods</goods_target_data_path>
+	    <kill_monster_target_data_path>res/data/task/target/KillMonster</kill_monster_target_data_path>
+	    <open_gear_target_data_path>res/data/task/target/OpenGear</open_gear_target_data_path>
+	    <monster_task_goods_path>res/data/task/TaskGoodsDrop</monster_task_goods_path>
+	    <task_push_path>res/data/task/taskPush</task_push_path>
+	</para>
+</include>

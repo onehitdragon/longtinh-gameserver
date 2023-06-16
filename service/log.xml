@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x26</id>
+		<name>logService</name>
+		<class>hero.log.service.LogServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	</clientprocesses>
+	<messages>
+	</messages>
+	<logservice>
+
+        <!--玩家创建角色日志-->
+		<log name="createRole">
+			<close>no</close>
+			<filePath>log/createRoleLogs/createRole.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+        <!--玩家登录日志-->
+		<log name="roleLogin">
+			<close>no</close>
+			<filePath>log/roleLoginLogs/roleLogin.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家上下线日志-->
+		<log name="roleOnOff">
+			<close>no</close>
+			<filePath>log/roleOnOffLogs/roleOnOff.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家聊天日志-->
+		<log name="talk">
+			<close>no</close>
+			<filePath>log/talkLogs/talk.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家升级日志-->
+		<log name="upgrade">
+			<close>no</close>
+			<filePath>log/upgradeLogs/upgrade.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--在线人数日志-->
+		<log name="onlineNum">
+			<close>no</close>
+			<filePath>log/onlineNumLogs/onlineNum.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家交易日志-->
+		<log name="trade">
+			<close>no</close>
+			<filePath>log/tradeLogs/trade.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!-- 记录金币变化 -->
+		<log name="moneyChange">
+			<close>no</close>
+			<filePath>log/moneyChangeLogs/moneyChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!-- 仓库日志 -->
+		<log name="depotChange">
+			<close>no</close>
+			<filePath>log/depotChangeLogs/depotChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!-- 公会创建,解散,转让日志 -->
+		<log name="guildChange">
+			<close>no</close>
+			<filePath>log/guildChangeLogs/guildChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!-- 公会成员日志 -->
+		<log name="guildMemberChange">
+			<close>no</close>
+			<filePath>log/guildMemberChangeLog/guildMemberChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家物品变更日志-->
+		<log name="goodsChange">
+			<close>no</close>
+			<filePath>log/goodsChangeLogs/goodsChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+        <!--玩家宠物变更日志-->
+		<log name="petChange">
+			<close>no</close>
+			<filePath>log/petChangeLogs/petChange.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家发送信件日志-->
+		<log name="letter">
+			<close>no</close>
+			<filePath>log/letterLogs/letter.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家发送邮件日志-->
+		<log name="mail">
+			<close>no</close>
+			<filePath>log/mailLogs/mail.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家计费日志-->
+		<log name="charge">
+			<close>no</close>
+			<filePath>log/chargeLogs/charge.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家计费发起日志-->
+		<log name="chargeGen">
+			<close>no</close>
+			<filePath>log/chargeLogs/chargeGenLogs/chargeGen.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家充值卡充值回调日志-->
+		<log name="chargeCardFeedBack">
+			<close>no</close>
+			<filePath>log/chargeLogs/chargeCardFeedBackLogs/chargeCardFeedBack.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!--玩家点数操作日志-->
+		<log name="chargePoint">
+			<close>no</close>
+			<filePath>log/chargeLogs/pointLogs/point.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+		<!-- 地图跳转日志 -->
+		<log name="switchMap">
+			<close>no</close>
+			<filePath>log/switchMapLogs/switchMap.log</filePath>
+			<timePattern>yyyy-MM-dd</timePattern>
+			<format>%m%n</format>
+		</log>
+        <!-- 物品使用日志 -->
+        <log name="goodsUsed">
+            <close>no</close>
+            <filePath>log/goodsUsedLogs/goodsUsed.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!--怪物掉落日志-->
+        <log name="monsterLegacy">
+            <close>no</close>
+            <filePath>log/monsterLegacyLogs/monsterLegacy.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!-- 任务完成日志-->
+        <log name="taskFinishedLogs">
+            <close>no</close>
+            <filePath>log/taskLogs/taskFinished.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!--玩家拾取怪物掉落物品日志-->
+        <log name="getMonsterLegacy">
+            <close>no</close>
+            <filePath>log/getMonsterLegacyLogs/getMonsterLegacy.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!--任务推广日志-->
+        <log name="taskPushOption">
+            <close>no</close>
+            <filePath>log/taskPushOptionLogs/taskPushOption.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!--即充即扣计费日志-->
+        <log name="feeLogs">
+            <close>no</close>
+            <filePath>log/feeLogs/fee.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+        <!--数量值错误日志-->
+        <log name="numberError">
+            <close>no</close>
+            <filePath>log/numberError/numberError.log</filePath>
+            <timePattern>yyyy-MM-dd</timePattern>
+            <format>%m%n</format>
+        </log>
+	</logservice>
+</include>

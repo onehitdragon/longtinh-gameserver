@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <vocation>力士</vocation>
+    <toolID>330095</toolID>
+  </data>
+  <data>
+    <vocation>斥候</vocation>
+    <toolID>330095</toolID>
+  </data>
+  <data>
+    <vocation>法师</vocation>
+    <toolID>330095</toolID>
+  </data>
+  <data>
+    <vocation>巫医</vocation>
+    <toolID>330095</toolID>
+  </data>
+</include>

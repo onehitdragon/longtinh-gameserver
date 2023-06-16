@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x41</id>
+		<name>登陆服务</name>
+		<class>hero.login.LoginServiceImpl</class>
+		<version>1.0.0</version>
+		<author></author>
+	</service>
+	<login>
+		<host>localhost</host>
+		<port>54321</port>
+		<rmi_object_name>hero1</rmi_object_name>
+	</login>
+</include>

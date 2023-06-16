@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x5a</id>
+		<name>Lover</name>
+		<class>hero.lover.service.LoverServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Luke</author>
+	</service>
+	<clientprocesses>
+        <clientprocess id="0x5a01">hero.lover.client.OptionMarryRelation</clientprocess>
+	</clientprocesses>
+	<messages>
+        <message id="0x5a02">hero.lover.message.ResponseMarryRelationShow</message>
+	</messages>
+</include>

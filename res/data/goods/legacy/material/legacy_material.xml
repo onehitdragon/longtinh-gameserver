@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <startLevel>1</startLevel>
+    <endLevel>60</endLevel>
+    <number>1</number>
+    <itemStartID>320001</itemStartID>
+    <itemEndID>320012</itemEndID>
+    <trait>普通</trait>
+    <odds>1</odds>
+  </data>
+  <data>
+    <startLevel>1</startLevel>
+    <endLevel>60</endLevel>
+    <number>1</number>
+    <itemStartID>320013</itemStartID>
+    <itemEndID>320015</itemEndID>
+    <trait>优秀</trait>
+    <odds>1</odds>
+  </data>
+</include>

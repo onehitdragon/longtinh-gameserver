@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data>
+    <id>355001</id>
+    <type>1</type>
+    <name>普通饲料</name>
+    <iconID>1</iconID>
+  </data>
+  <data>
+    <id>355002</id>
+    <type>2</type>
+    <name>草食成长饲料</name>
+    <iconID>2</iconID>
+  </data>
+  <data>
+    <id>355003</id>
+    <type>3</type>
+    <name>肉食成长饲料</name>
+    <iconID>3</iconID>
+  </data>
+  <data>
+    <id>355004</id>
+    <type>4</type>
+    <name>大地精华</name>
+    <iconID>4</iconID>
+  </data>
+  <data>
+    <id>355005</id>
+    <type>5</type>
+    <name>龙涎草汁</name>
+    <iconID>5</iconID>
+  </data>
+  <data>
+    <id>355006</id>
+    <type>1</type>
+    <name>普通饲料</name>
+    <iconID>1</iconID>
+  </data>
+  <data>
+    <id>355007</id>
+    <type>1</type>
+    <name>成长饲料</name>
+    <iconID>1</iconID>
+  </data>
+</include>

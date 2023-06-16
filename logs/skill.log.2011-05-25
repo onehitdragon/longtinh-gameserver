@@ -1,0 +1,608 @@
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 13:55:26,937]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 13:55:26,953]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 15:24:25,625]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 15:24:25,640]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 15:26:00,750]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 15:26:00,765]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 15:26:00,781]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 15:26:00,781]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 15:31:35,593]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 15:31:35,609]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[圣光弹]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[治疗术]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命恢复]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[信仰之盾]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[祈祷]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命之歌]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[钢铁意志]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[净化]
+[2011-05-25 15:32:11,250]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:32:51,890]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[圣光弹]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[治疗术]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命恢复]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[信仰之盾]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[祈祷]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命之歌]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[钢铁意志]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[净化]
+[2011-05-25 15:34:10,046]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:34:15,765]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:34:21,359]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:34:21,359]-WARN  (hero.skill.clienthandler.ReleaseSkill:76)|response client : RestoreSkillCoolDownNotify
+[2011-05-25 15:34:25,703]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:34:56,218]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:35:01,937]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 15:37:15,375]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 15:37:15,390]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 15:37:15,406]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[圣光弹]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[治疗术]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命恢复]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[信仰之盾]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[祈祷]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命之歌]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[钢铁意志]
+[2011-05-25 15:37:38,406]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[净化]
+[2011-05-25 15:37:38,421]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:39:16,343]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:39:22,312]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:40:16,609]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:40:22,359]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:40:31,078]-INFO  (hero.skill.message.SkillUpgradeNotify:68)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:40:31,109]-INFO  (hero.skill.message.SkillUpgradeNotify:119)|使用技能需要消耗的生命值:0
+[2011-05-25 15:40:46,703]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:40:49,593]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:40:52,265]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:40:56,015]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:08,984]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:41:11,546]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:14,687]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:41:17,359]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:20,421]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:41:22,796]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:22,796]-WARN  (hero.skill.clienthandler.ReleaseSkill:76)|response client : RestoreSkillCoolDownNotify
+[2011-05-25 15:41:26,000]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:41:28,250]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:31,687]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:41:31,703]-WARN  (hero.skill.clienthandler.ReleaseSkill:76)|response client : RestoreSkillCoolDownNotify
+[2011-05-25 15:41:33,968]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:41:37,062]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[火焰箭]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[寒冰箭]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[闪电召唤]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[魔法盾]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[狂雷术]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[魔法结界]
+[2011-05-25 15:44:08,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|法师 成功加载法师职业的[解除诅咒]
+[2011-05-25 15:44:28,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[圣光弹]
+[2011-05-25 15:44:28,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[治疗术]
+[2011-05-25 15:44:28,468]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命恢复]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[信仰之盾]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[祈祷]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命之歌]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[钢铁意志]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[净化]
+[2011-05-25 15:44:28,484]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[圣光弹]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[治疗术]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命恢复]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[信仰之盾]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[祈祷]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[生命之歌]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[钢铁意志]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[净化]
+[2011-05-25 15:44:57,000]-INFO  (hero.skill.message.LearnedSkillListNotify:90)|巫医 成功加载巫医职业的[暗影弹]
+[2011-05-25 15:45:18,359]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:45:25,781]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:45:30,593]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:45:35,343]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:45:39,453]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:46:22,046]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:46:25,953]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:47:39,875]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:47:44,015]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:47:48,000]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:48:30,718]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:48:35,281]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:48:40,125]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:49:16,562]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:49:19,765]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:49:24,171]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:49:29,531]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:49:33,468]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:50:27,484]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:51:11,046]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:51:19,984]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:51:25,109]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:51:32,593]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:51:39,187]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:51:44,281]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:51:49,578]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 15:51:54,156]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 15:51:57,296]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 16:01:53,640]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 16:01:57,125]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 16:02:02,703]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 16:02:06,078]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 16:04:28,640]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:27728
+[2011-05-25 16:04:32,609]-INFO  (hero.skill.clienthandler.ReleaseSkill:48)|player:cvad11释放技能:28416
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60001;怪物lv1~10级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60002;怪物lv11~20级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60003;怪物lv21~30级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60004;怪物lv31~40级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60005;怪物lv41~50级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60006;怪物lv51~60级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60007;怪物lv61~70级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60008;怪物lv71~80级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60009;怪物lv81~90级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60010;怪物lv91~100级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60011;怪物lv1~10级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60012;怪物lv11~20级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60013;怪物lv21~30级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60014;怪物lv31~40级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60015;怪物lv41~50级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60016;怪物lv51~60级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60017;怪物lv61~70级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60018;怪物lv71~80级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60019;怪物lv81~90级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60020;怪物lv91~100级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60021;怪物lv1~10级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60022;怪物lv11~20级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60023;怪物lv21~30级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60024;怪物lv31~40级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60025;怪物lv41~50级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60026;怪物lv51~60级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60027;怪物lv61~70级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60028;怪物lv71~80级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60029;怪物lv81~90级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60030;怪物lv91~100级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60031;怪物lv1~10级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60032;怪物lv11~20级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60033;怪物lv21~30级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60034;怪物lv31~40级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60035;怪物lv41~50级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60036;怪物lv51~60级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60037;怪物lv61~70级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60038;怪物lv71~80级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60039;怪物lv81~90级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60040;怪物lv91~100级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60041;怪物lv1~10级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60042;怪物lv11~20级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60043;怪物lv21~30级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60044;怪物lv31~40级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60045;怪物lv41~50级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60046;怪物lv51~60级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60047;怪物lv61~70级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60048;怪物lv71~80级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60049;怪物lv81~90级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60050;怪物lv91~100级攻击
+[2011-05-25 17:56:31,546]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60051;怪物lv1~10级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60052;怪物lv11~20级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60053;怪物lv21~30级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60054;怪物lv31~40级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60055;怪物lv41~50级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60056;怪物lv51~60级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60057;怪物lv61~70级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60058;怪物lv71~80级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60059;怪物lv81~90级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60060;怪物lv91~100级攻击
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60061;雕狐普通
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60062;雕狐英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60063;万恶之灵普通1
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60064;万恶之灵普通2
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60065;万恶之灵英雄1
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60066;万恶之灵英雄2
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60067;石牛
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60068;石牛英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60069;百花兽
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60070;百花兽英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60071;幻化蛛妖王
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60072;幻化蛛妖王英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60073;妖狐之王
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60074;妖狐之王英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60075;混沌魔王
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60076;混沌魔王英雄
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.dict.MonsterSkillDict:177)|加载怪物技能成功:60077;强化石牛
+[2011-05-25 17:56:31,562]-INFO  (hero.skill.service.SkillServiceImpl:69)|id:14
+name:skill
+version:1.0.0
+author:ChooraDing
+

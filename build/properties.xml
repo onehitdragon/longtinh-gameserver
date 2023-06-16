@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id-->
+
+    <property name="project.dir" value="${basedir}/.."/>
+    <property name="src.dir" value="${project.dir}/src"/>
+    <property name="classes.dir" value="${project.dir}/bin"/>
+
+    <property name="lib.dir" value="${project.dir}/lib"/>
+	
+    <path id="classpath">
+        <pathelement path="${classes.dir}"/>
+        <fileset dir="${lib.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+    <path id="sourcepath">
+        <pathelement location="${src.dir}/"/>
+    </path>
+    <property name="compile.encoding" value="UTF-8"/>
+    

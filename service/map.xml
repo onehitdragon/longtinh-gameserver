@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x2a</id>
+		<name>mapService</name>
+		<class>hero.map.service.MapServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Insunny</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x2a01">hero.map.clienthandler.EnterGame</clientprocess>
+		<clientprocess id="0x2a02">hero.map.clienthandler.SwitchMap</clientprocess>
+		<clientprocess id="0x2a04">hero.map.clienthandler.RequestMapTraceInfo</clientprocess>
+		<clientprocess id="0x2a0a">hero.map.clienthandler.RequestMicroMap</clientprocess>
+        <clientprocess id="0x2a18">hero.map.clienthandler.BreakAwayStuck</clientprocess>
+        <clientprocess id="0x2a19">hero.map.clienthandler.BlackLock</clientprocess>
+
+        <clientprocess id="0x2a20">hero.map.clienthandler.WorldMapFun</clientprocess>
+	</clientprocesses>
+	<!-- 所有下行命令 -->
+	<messages>
+	    <message id="0x2a01">hero.map.message.NotifyEnterMap</message>
+		<message id="0x2a02">hero.map.message.ResponseMapBottomData</message>
+		<message id="0x2a03">hero.map.message.PlayerRefreshNotify</message>
+		<message id="0x2a06">hero.map.message.DisappearNotify</message>
+		<message id="0x2a09">hero.map.message.ResponseAreaImage</message>
+		<message id="0x2a0a">hero.map.message.ResponseMapMiniImage</message>
+		<message id="0x2a0b">hero.map.message.ResponseMapGameObjectList</message>
+	    <message id="0x2a0c">hero.map.message.ResponseAnimalInfoList</message>
+	    <message id="0x2a0d">hero.map.message.ResponseMapElementList</message>
+	    <message id="0x2a0e">hero.map.message.ResponseBoxList</message>
+	    <message id="0x2a11">hero.map.message.ResponseSceneElement</message>
+	    <message id="0x2a12">hero.map.message.DoorOpenedNotify</message>
+	    <message id="0x2a13">hero.map.message.SwitchMapFailNotify</message>
+	    <message id="0x2a14">hero.map.message.WeatherChangeNotify</message>
+	    <message id="0x2a15">hero.map.message.ResponseMapDecorateData</message><!-- add by jiaodongjie -->
+	    <message id="0x2a16">hero.map.message.ResponsePetInfoList</message>
+
+        <message id="0x2a17">hero.map.message.ResponseWorldMaps</message>
+        <message id="0x2a18">hero.map.message.ResponseMapDesc</message>
+        <message id="0x2a19">hero.map.message.ResponseMapNpcList</message>
+        <message id="0x2a20">hero.map.message.ResponseWorld</message>
+	</messages>
+	<!-- 地图服务相关的配置数据 -->
+	<map>
+		<!-- 地图文件所在目录 -->
+		<map_model_path>res/maps/model</map_model_path>
+		<map_relation_path>res/maps/relation</map_relation_path>
+		<area_image_path>res/tiles/map/area</area_image_path>
+		<area_data_path>res/maps/area</area_data_path>
+		<micro_map_image_path>res/tiles/map/micro</micro_map_image_path>
+		<map_tile_image_path>res/tiles/map/tile</map_tile_image_path>
+		<transmit_list_path>res/maps/transmit</transmit_list_path>
+   		<map_element_image_path>res/tiles/map/element</map_element_image_path>
+   		<map_music_config_path>res/maps/music</map_music_config_path>
+   		<pet_equipment_data_path>res/data/goods/pet_equip</pet_equipment_data_path>
+
+        <world_maps_shen_long>res/maps/world/shen_long_jie</world_maps_shen_long>
+        <world_maps_mo_long>res/maps/world/mo_long_jie</world_maps_mo_long>
+        <world_maps_xian_jie>res/maps/world/xian_jie</world_maps_xian_jie>
+        <world_maps>res/maps/world</world_maps>
+	</map>
+	<para>
+		<break_lock_default_long_map>118</break_lock_default_long_map>
+		<break_lock_default_mo_map>120</break_lock_default_mo_map>
+		<use_default_map>false</use_default_map>
+
+        <world_map_png_anu>1000,1003,640,368</world_map_png_anu>
+        <world_names>神龙界,魔龙界,仙界,世界</world_names>
+	</para>
+</include>

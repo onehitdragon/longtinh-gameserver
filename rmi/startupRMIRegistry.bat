@@ -1,0 +1,1 @@
+start rmiregistry 6666 

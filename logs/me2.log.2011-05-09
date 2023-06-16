@@ -1,0 +1,241 @@
+[2011-05-09 22:25:30,515]-INFO  (me2.service.util.log.SysInfoServiceImpl:69)|id:0
+name:logservice
+version:1.0.0
+author:Insunny
+description:record and managment log
+
+[2011-05-09 22:25:30,578]-INFO  (me2.service.util.db.DBServiceImpl:69)|id:1
+name:dbService
+version:1.0.0
+author:HuangShuZhen
+description:config of DB pool
+
+[2011-05-09 22:25:30,843]-INFO  (me2.service.basic.net.NetServiceImpl:69)|id:2
+name:netService
+version:1.0.0
+author:Insunny
+description:port of listener
+
+[2011-05-09 22:25:30,843]-INFO  (me2.service.basic.session.SessionServiceImpl:69)|id:3
+name:sessionService
+version:1.0.0
+author:Insunny
+description:manage session of client connect
+
+[2011-05-09 22:25:30,906]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.RefreshRoleProperty id:1025
+[2011-05-09 22:25:30,906]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.RoleUpgradeNotify id:1026
+[2011-05-09 22:25:30,906]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.MoneyChangeNofity id:1027
+[2011-05-09 22:25:30,906]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ExperienceAddNotify id:1028
+[2011-05-09 22:25:30,906]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ResponseRoleViewInfo id:1029
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.OtherWalkNotify id:1032
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.VocationChangeNotify id:1033
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ReviveNotify id:1040
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ClearRoleSuccNotify id:1041
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ShortcutKeyListNotify id:1042
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ResponsePlayerBaseInfo id:1043
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ResponsePlayerMarryStatus id:1046
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ResponseInlayHeavenBook id:1049
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.AskChooseHeavenBookPosition id:1056
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.ResponseHeavenBookList id:1057
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.HotKeySumByMedicament id:1058
+[2011-05-09 22:25:30,921]-INFO  (me2.service.ServiceMan:261)|load message hero.player.message.NextGiftTimeNotify id:1059
+[2011-05-09 22:25:31,234]-INFO  (me2.service.basic.hearbeat.HeartbeatServiceImpl:69)|id:20
+name:heartbeatService
+version:1.0.0
+author:Insunny
+description:heartbeat
+
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.SendBodyWearList id:7425
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseEquipmentBag id:7426
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseMedicamentBag id:7427
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseTaskToolBag id:7429
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseMaterialBag id:7430
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.RefreshEquipmentDurabilityPoint id:7431
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ClothesOrWeaponChangeNotify id:7440
+[2011-05-09 22:25:31,265]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.LegacyBoxEmergeNotify id:7435
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.LegacyBoxDisappearNotify id:7436
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.NodifyMedicamentCDTime id:7437
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseOthersWearList id:7442
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseSpecialGoodsBag id:7444
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.GoodsShortcutKeyChangeNotify id:7445
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.GoodsDistributeNotify id:7446
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.LegacyBoxStatusDisappearNotify id:7447
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.SendLegacyBoxList id:7448
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.SendBagSize id:7449
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.EquipmentEnhanceChangeNotify id:7456
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.NotifyPopEnhanceUI id:7457
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.AddWeaponBloodyEnhanceNotify id:7458
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.RemoveEquipmentSealNotify id:7459
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.PopHornInputUINotify id:7460
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.SoulGoodsConfirm id:7461
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseItemInfo id:7462
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.PetClothesOrWeaponChangeNotify id:7463
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponsePetEquipmentBag id:7464
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseSingleHoleEnhanceProperty id:7472
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.AskBuyJewel id:7473
+[2011-05-09 22:25:31,281]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.EnhanceAnswer id:7475
+[2011-05-09 22:25:31,296]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.UpgradeBagAnswer id:7476
+[2011-05-09 22:25:31,296]-INFO  (me2.service.ServiceMan:261)|load message hero.item.message.ResponseInitializeItemData id:7577
+[2011-05-09 22:25:34,000]-INFO  (me2.service.ServiceMan:261)|load message hero.effect.message.AddEffectNotify id:3329
+[2011-05-09 22:25:34,000]-INFO  (me2.service.ServiceMan:261)|load message hero.effect.message.RemoveEffectNotify id:3330
+[2011-05-09 22:25:34,000]-INFO  (me2.service.ServiceMan:261)|load message hero.effect.message.RefreshEffectNotify id:3331
+[2011-05-09 22:25:34,000]-INFO  (me2.service.ServiceMan:261)|load message hero.effect.message.MoveSpeedChangerNotify id:3332
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.LearnedSkillListNotify id:3586
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.AddSkillNotify id:3587
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.SkillUpgradeNotify id:3588
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.RestoreSkillCoolDownNotify id:3589
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.UpdateLearnableSkillList id:3590
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.ChangeAllSkillReleaseTimePercent id:3591
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.RefreshSkillTime id:3592
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.UpdateActiveSkillNotify id:3593
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.SkillAnimationNotify id:3600
+[2011-05-09 22:25:34,156]-INFO  (me2.service.ServiceMan:261)|load message hero.skill.message.ReviveConfirm id:3601
+[2011-05-09 22:25:34,593]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.NpcInteractiveResponse id:11522
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.ChangeNpcStat id:11523
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.ChangeTaskGearStat id:11538
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.BoxRefreshNofity id:11539
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.BoxDisappearNofity id:11540
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.ChangeGroundTaskGoodsStat id:11541
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.GroundTaskGoodsDisappearNofity id:11542
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.GroundTaskGoodsEmergeNotify id:11543
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.NpcWalkNotify id:11544
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterWalkNotify id:11545
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterShoutNotify id:11552
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.NpcResetNotify id:11553
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.NpcRefreshNotify id:11554
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterRefreshNotify id:11555
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterDisengageFightNotify id:11556
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterEmergeNotify id:11557
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.AnimalWalkNotify id:11569
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.MonsterChangesNotify id:11570
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.RangeSkillWarning id:11571
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.AskPlayerAgreeWedding id:11572
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.InviteAttendWedding id:11573
+[2011-05-09 22:25:34,609]-INFO  (me2.service.ServiceMan:261)|load message hero.npc.message.AskPlayerBuyDivorce id:11574
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.NotifyEnterMap id:10753
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapBottomData id:10754
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.PlayerRefreshNotify id:10755
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.DisappearNotify id:10758
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseAreaImage id:10761
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapMiniImage id:10762
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapGameObjectList id:10763
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseAnimalInfoList id:10764
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapElementList id:10765
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseBoxList id:10766
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseSceneElement id:10769
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.DoorOpenedNotify id:10770
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.SwitchMapFailNotify id:10771
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.WeatherChangeNotify id:10772
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapDecorateData id:10773
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponsePetInfoList id:10774
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseWorldMaps id:10775
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapDesc id:10776
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseMapNpcList id:10777
+[2011-05-09 22:25:35,812]-INFO  (me2.service.ServiceMan:261)|load message hero.map.message.ResponseWorld id:10784
+[2011-05-09 22:25:38,453]-INFO  (me2.service.ServiceMan:261)|load message hero.chat.message.ChatResponse id:7681
+[2011-05-09 22:25:38,453]-INFO  (me2.service.ServiceMan:261)|load message hero.chat.message.GetGoodsNofity id:7682
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.ResponseEuipmentPackageChange id:6657
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.ResponseSinglePackageChange id:6658
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.NotifyAddGoods2SinglePackage id:6659
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.ReturnMainUI id:6660
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.CloseUIMessage id:6661
+[2011-05-09 22:25:38,468]-INFO  (me2.service.ServiceMan:261)|load message hero.ui.message.NotifyListItemMessage id:6662
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.SpecialStatusChangeNotify id:7185
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.HpRefreshNotify id:7186
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.AttackMissNotify id:7187
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.MpRefreshNotify id:7189
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.GenericAttackViewNotify id:7190
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.fight.message.FightStatusChangeNotify id:7200
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.Warning id:23809
+[2011-05-09 22:25:38,484]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseExchange id:23812
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseExchangeGoodsList id:23813
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseLetterList id:23817
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.MailStatusChanges id:23825
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.FullScreenTip id:23826
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.RefreshObjectViewValue id:23827
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResultFeeTip id:23828
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.AskExchange id:23829
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ExchangeLockedGoodsList id:23830
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseDownload id:23831
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseRankData id:23840
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseRankMenu id:23841
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseIndexNoticeList id:23845
+[2011-05-09 22:25:38,500]-INFO  (me2.service.ServiceMan:261)|load message hero.share.message.ResponseIndexNoticeContent id:23846
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.ReceiveableTaskList id:3843
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.ChangeNpcTaskMark id:3846
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.ResponseTaskItems id:3847
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.RefreshTaskStatus id:3848
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.NotifyMapNpcTaskMark id:3849
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.ResponseTaskView id:3856
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.TaskListChangerNotify id:3857
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.ResponseTaskPushType id:3858
+[2011-05-09 22:25:41,359]-INFO  (me2.service.ServiceMan:261)|load message hero.task.message.NotifyPlayerReciveRepeateTaskTimes id:3859
+[2011-05-09 22:25:41,687]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.GroupInviteNotify id:3074
+[2011-05-09 22:25:41,687]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.GroupMemberListNotify id:3075
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.AddMemberNotify id:3076
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.ReduceMemberNotify id:3077
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.MemberChangerNotify id:3078
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.GroupDisbandNotify id:3079
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.group.message.OthersHpMpNotify id:3080
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.MemberRankChangeNotify id:2562
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.GuildDisbandNotify id:2563
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.ResponseMemberList id:2564
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.GuildInviteNotify id:2565
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.GuildChangeNotify id:2566
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.RefreshMemberListNotify id:2567
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.ResponseGuildInfo id:2568
+[2011-05-09 22:25:41,703]-INFO  (me2.service.ServiceMan:261)|load message hero.guild.message.GuildUpNotify id:2569
+[2011-05-09 22:25:41,718]-INFO  (me2.service.ServiceMan:261)|load message hero.manufacture.message.ManufListMessage id:24080
+[2011-05-09 22:25:41,718]-INFO  (me2.service.ServiceMan:261)|load message hero.manufacture.message.ManufNeedGoodsMessage id:24081
+[2011-05-09 22:25:41,718]-INFO  (me2.service.ServiceMan:261)|load message hero.manufacture.message.ManufNotify id:24082
+[2011-05-09 22:25:41,718]-INFO  (me2.service.ServiceMan:261)|load message hero.manufacture.message.UpgradeSkillPoint id:24083
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.SoulMessage id:23568
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.TakeSoulMessage id:23569
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.RefinedListMessage id:23570
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.RefinedNeedGoodsMessage id:23571
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.UseGourdMessage id:23572
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.GatherSkillNotify id:23573
+[2011-05-09 22:25:41,765]-INFO  (me2.service.ServiceMan:261)|load message hero.gather.message.GourdNotify id:23574
+[2011-05-09 22:25:41,796]-INFO  (me2.service.ServiceMan:261)|load message hero.social.message.ResponseSocialRelationdList id:24322
+[2011-05-09 22:25:41,796]-INFO  (me2.service.ServiceMan:261)|load message hero.social.message.AddSocialMemberNotify id:24323
+[2011-05-09 22:25:41,796]-INFO  (me2.service.ServiceMan:261)|load message hero.social.message.SelectOtherPlayer id:24325
+[2011-05-09 22:25:41,843]-INFO  (me2.service.ServiceMan:261)|load message hero.lover.message.ResponseMarryRelationShow id:23042
+[2011-05-09 22:25:41,843]-INFO  (me2.service.ServiceMan:261)|load message hero.duel.message.ResponseDuel id:24834
+[2011-05-09 22:25:41,859]-INFO  (me2.service.ServiceMan:261)|load message hero.dungeon.message.ResponseDungeonHistoryInfo id:10497
+[2011-05-09 22:25:41,859]-INFO  (me2.service.ServiceMan:261)|load message hero.dungeon.message.AskPlayerDungeonPattern id:10499
+[2011-05-09 22:25:41,875]-INFO  (me2.service.ServiceMan:261)|load message hero.novice.message.EndNoviceWizard id:11778
+[2011-05-09 22:25:41,890]-INFO  (me2.service.ServiceMan:261)|load message hero.gm.message.GmQuestionSubmitFeedback id:15361
+[2011-05-09 22:25:41,890]-INFO  (me2.service.ServiceMan:261)|load message hero.gm.message.TestResponseUpAndDownTime id:15366
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.ExperienceBookTraceTime id:15105
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.PointAmountNotify id:15106
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.ResponseMallGoodsList id:15109
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.ResponseTransID id:15110
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.SendChargeList id:15112
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.ResponseRecharge id:15113
+[2011-05-09 22:25:45,937]-INFO  (me2.service.ServiceMan:261)|load message hero.charge.message.ResponseQueryResult id:15124
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.PetChangeNotify id:14850
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetList id:14851
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetStage id:14852
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetNaming id:14854
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseFeedStatusChange id:14858
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetRevive id:14861
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetEvolveChange id:14860
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseAbilityListChange id:14863
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseDiscardPoint id:14864
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseRefreshPetProperty id:14865
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetUpgrade id:14866
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.PetLearnSkillNotify id:14867
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseShowPetSkillList id:14868
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.PetWalkNotify id:14869
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetContainer id:14870
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponseWearPetGridNumber id:14871
+[2011-05-09 22:25:45,968]-INFO  (me2.service.ServiceMan:261)|load message hero.pet.message.ResponsePetSkillIDList id:14872
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.store.message.ResponseStoreGoodsList id:11281
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.store.message.ResponseBagGoodsList id:11282
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.store.message.StoreStatusChanged id:11283
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.store.message.GridGoodsChangesNotify id:11284
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.store.message.OtherStoreGoodsList id:11285
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.teach.message.MAOperateConfirm id:11298
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.teach.message.ResponseMAList id:11299
+[2011-05-09 22:25:45,984]-INFO  (me2.service.ServiceMan:261)|load message hero.micro.teach.message.ClearConfirmDialog id:11300
+[2011-05-09 22:25:46,046]-INFO  (me2.service.ServiceMan:129)|All Service Size 31

@@ -1,0 +1,92 @@
+[2011-05-31 09:31:15,515]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 09:34:52,437]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 11:14:23,437]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 12:37:01,343]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 13:42:02,343]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 13:49:41,500]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306820981500;objectid=3602
+[2011-05-31 13:49:41,500]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =1
+[2011-05-31 13:49:41,515]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306820981515;objectid=3602
+[2011-05-31 13:49:41,515]-INFO  (hero.npc.Monster:666)|[黑鼬]完成所有循环return,1306820981515;objectid=3602
+[2011-05-31 13:50:18,093]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306821018093;objectid=3602
+[2011-05-31 13:50:18,093]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-31 13:50:18,093]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306821018093;objectid=3602
+[2011-05-31 13:50:18,093]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306821018093;objectid=3602
+[2011-05-31 13:50:33,281]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306821033281;objectid=3604
+[2011-05-31 13:50:33,281]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-31 13:50:33,281]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306821033281;objectid=3604
+[2011-05-31 13:50:33,281]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306821033281;objectid=3604
+[2011-05-31 13:54:22,359]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 14:03:20,687]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 14:07:16,796]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 14:11:49,843]-INFO  (hero.npc.service.NotPlayerServiceImpl:69)|id:45
+name:npcService
+version:1.0.0
+author:DingChu
+
+[2011-05-31 14:14:03,515]-INFO  (hero.npc.Monster:643)|[黑鼬]开始计算掉落时间,1306822443515;objectid=3602
+[2011-05-31 14:14:03,515]-INFO  (hero.npc.Monster:650)|怪物死亡，世界掉落 数量： =0
+[2011-05-31 14:14:03,515]-INFO  (hero.npc.Monster:658)|[黑鼬]完成第1个循环,1306822443515;objectid=3602
+[2011-05-31 14:14:03,515]-INFO  (hero.npc.Monster:671)|[黑鼬]完成所有循环return,1306822443515;objectid=3602
+[2011-05-31 14:15:50,062]-ERROR (hero.npc.Npc:273)|与NPC交互出错:
+java.lang.NullPointerException
+	at hero.item.service.GoodsDAO.addSingleGoods(GoodsDAO.java:1082)
+	at hero.item.service.GoodsServiceImpl.addGoods2PackageByTask(GoodsServiceImpl.java:680)
+	at hero.task.service.TaskServiceImpl.submitTask(TaskServiceImpl.java:2775)
+	at hero.npc.function.system.TaskPassageway.process(TaskPassageway.java:389)
+	at hero.npc.Npc.listen(Npc.java:257)
+	at hero.npc.clienthandler.InteractiveRequest.read(InteractiveRequest.java:37)
+	at me2.core.handler.ClientHandler.run(ClientHandler.java:53)
+	at me2.service.basic.net.server.SocketIoHandler.messageReceived(SocketIoHandler.java:78)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$TailFilter.messageReceived(DefaultIoFilterChain.java:752)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:414)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:49)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:832)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter$ProtocolDecoderOutputImpl.flush(ProtocolCodecFilter.java:379)
+	at org.apache.mina.filter.codec.ProtocolCodecFilter.messageReceived(ProtocolCodecFilter.java:173)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:414)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.access$1200(DefaultIoFilterChain.java:49)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$EntryImpl$1.messageReceived(DefaultIoFilterChain.java:832)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain$HeadFilter.messageReceived(DefaultIoFilterChain.java:616)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.callNextMessageReceived(DefaultIoFilterChain.java:414)
+	at org.apache.mina.core.filterchain.DefaultIoFilterChain.fireMessageReceived(DefaultIoFilterChain.java:408)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.read(AbstractPollingIoProcessor.java:498)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:460)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.process(AbstractPollingIoProcessor.java:452)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor.access$400(AbstractPollingIoProcessor.java:55)
+	at org.apache.mina.core.polling.AbstractPollingIoProcessor$Worker.run(AbstractPollingIoProcessor.java:775)
+	at org.apache.mina.util.NamePreservingRunnable.run(NamePreservingRunnable.java:51)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:619)

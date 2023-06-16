@@ -1,0 +1,6 @@
+[2011-05-09 22:25:41,343]-INFO  (hero.share.service.ShareServiceImpl:69)|id:93
+name:shareService
+version:1.0.0
+author:DingChu
+description:不隶属于专有模块的共享服务
+

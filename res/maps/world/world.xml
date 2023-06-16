@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <mapID>1000</mapID>
+    <cellX>352</cellX>
+    <cellY>162</cellY>
+    <name>神龙界</name>
+    <desc>大神盘古开天辟地后,最初的世界便是神龙大陆,后经天界动乱和人间变迁,神龙大陆被轩辕和清风所领导的人族势力(龙之传人)所占据!之后,在这片悠久的土地上孕育了大批的龙之传人战士.神龙界也就变成了龙之传人的栖息之地!</desc>
+    <png>1000</png>
+    <anu>1000</anu>
+    <width>752</width>
+    <height>496</height>
+  </data>
+  <data>
+    <mapID>1001</mapID>
+    <cellX>300</cellX>
+    <cellY>327</cellY>
+    <name>魔龙界</name>
+    <desc>最初的世界只有神龙大陆,后因天界动乱,黑暗之神明月运用法力在世间幻化出一个神龙大陆的镜象即魔龙大陆.数年后,魔龙大陆被青阳和明月所带领的魔族势力(恶魔之子)所占据!从此,魔龙大陆便成了恶魔之子的栖息之地!</desc>
+    <png>1000</png>
+    <anu>1001</anu>
+    <width>752</width>
+    <height>496</height>
+  </data>
+  <data>
+    <mapID>1002</mapID>
+    <cellX>536</cellX>
+    <cellY>279</cellY>
+    <name>Xứ sở thần tiên</name>
+    <desc>Hòn đảo lơ lửng trên không nằm xen kẽ giữa Vương quốc rồng và Vương quốc rồng là biên giới đối đầu giữa lực lượng loài người và lực lượng yêu tộc, đồng thời cũng là pháo đài quân sự mà lực lượng tiên giới có được đặt trên thế giới!</desc>
+    <png>1000</png>
+    <anu>1002</anu>
+    <width>656</width>
+    <height>432</height>
+  </data>
+</include>
+<!-- 月光仙界 -->

@@ -1,0 +1,6 @@
+[2011-05-09 22:25:38,468]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-09 22:25:45,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0

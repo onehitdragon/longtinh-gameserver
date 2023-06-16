@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x5f</id>
+		<name>social</name>
+		<class>hero.social.service.SocialServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Ding chu</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x5f01">hero.social.clientHandler.OperateSocialRelation</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x5f02">hero.social.message.ResponseSocialRelationdList</message>
+		<message id="0x5f03">hero.social.message.AddSocialMemberNotify</message>
+		<message id="0x5f05">hero.social.message.SelectOtherPlayer</message>
+	</messages>
+	<para>
+	</para>
+</include>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0xd</id>
+		<name>effect</name>
+		<class>hero.effect.service.EffectServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Luke</author>
+	</service>
+	<clientprocesses>
+	     
+	</clientprocesses>
+	<messages>
+	      <message id="0xd01">hero.effect.message.AddEffectNotify</message>
+	      <message id="0xd02">hero.effect.message.RemoveEffectNotify</message>
+	      <message id="0xd03">hero.effect.message.RefreshEffectNotify</message>
+	      <message id="0xd04">hero.effect.message.MoveSpeedChangerNotify</message>
+	</messages>
+	<para>
+	    <static_effect_data_path>res/data/effect/static</static_effect_data_path>
+	    <dynamic_effect_data_path>res/data/effect/dynamic/</dynamic_effect_data_path>
+	    <touch_effect_data_path>res/data/effect/touch</touch_effect_data_path>
+	    <weapon_enhance_effect_data_path>res/data/effect/weaponEnhance</weapon_enhance_effect_data_path>
+	</para>
+</include>

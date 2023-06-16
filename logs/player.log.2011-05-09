@@ -1,0 +1,6 @@
+[2011-05-09 22:25:30,984]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+

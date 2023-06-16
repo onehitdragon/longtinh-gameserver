@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<card_type name="充值卡配置">
+		<card id="1" name="移动充值卡" tip="友情提示：全国移动卡，序列号：17位，密码：18位；江苏移动地方卡，序列号：16位，密码：17位；浙江移动地方卡，序列号：10位，密码：8位">
+			<point amount="10">1200</point>
+			<point amount="20">2400</point>
+			<point amount="30">3500</point>
+			<point amount="50">6000</point>
+			<point amount="100">12500</point>
+		</card>
+		<card id="2" name="联通充值卡" tip="友情提示：全国联通卡，序列号：15位，密码：19位">
+			<point amount="50">6000</point>
+			<point amount="100">12500</point>
+		</card>
+		<card id="3" name="电信充值卡" tip="友情提示：全国电信卡，序列号：19位，密码：18位，卡号第4位是1">
+			<point amount="50">6000</point>
+			<point amount="100">12500</point>
+		</card>
+		<card id="4" name="骏网一卡通充值" tip="友情提示：骏网一卡通充值，序列号：19位，密码：18位，卡号第4位是1">
+			<point amount="50">6000</point>
+			<point amount="100">12500</point>
+		</card>
+	</card_type>
+</include>

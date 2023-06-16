@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service id="0x4" index="0" class="hero.player.PlayerServiceImpl">
+		player.xml
+	</service>
+	<service id="0x41" index="1" class="hero.login.LoginServiceImpl">
+		login.xml
+	</service>
+	<service id="0x1d" index="3" class="hero.item.service.GoodsServiceImpl">
+		item.xml
+	</service>
+	<service id="0xd" index="4" class="hero.effect.service.EffectServiceImpl">
+		effect.xml
+	</service>
+	<service id="0xe" index="5" class="hero.skill.service.SkillServiceImpl">
+		skill.xml
+	</service>
+	<service id="0x2d" index="6" class="hero.npc.service.NotPlayerServiceImpl">
+		npc.xml
+	</service>
+	<service id="0x2a" index="7" class="hero.map.service.MapServiceImpl">
+		map.xml
+	</service>
+	<service id="0x1e" index="8" class="hero.chat.service.ChatServiceImpl">
+		chat.xml
+	</service>
+	<service id="0x1a" index="9" class="hero.ui.service.UIServiceImpl">
+		ui.xml
+	</service>
+	<service id="0x1c" index="10" class="hero.fight.service.FightServiceImpl">
+		fight.xml
+	</service>
+	<service id="0x5d" index="11" class="hero.share.service.ShareServiceImpl">
+		share.xml
+	</service>
+	<service id="0xf" index="12" class="hero.task.service.TaskServiceImpl">
+		task.xml
+	</service>
+	<service id="0xc" index="13" class="hero.group.service.GroupServiceImpl">
+		group.xml
+	</service>
+	<service id="0xa" index="14" class="hero.guild.service.GuildServiceImpl">
+		guild.xml
+	</service>
+	<service id="0x5e" index="15" class="hero.manufacture.service.ManufactureServerImpl">
+		manufacture.xml
+	</service>
+	<service id="0x5c" index="16" class="hero.gather.service.GatherServerImpl">
+		gather.xml
+	</service>
+	<service id="0x5f" index="17" class="hero.social.service.SocialServiceImpl">
+		social.xml
+	</service>
+	<service id="0x5a" index="18" class="hero.lover.service.LoverServiceImpl">
+		lover.xml
+	</service>
+	<service id="0x61" index="19" class="hero.duel.service.DuelServiceImpl">
+		duel.xml
+	</service>
+	<service id="0x29" index="20" class="hero.dungeon.service.DungeonServiceImpl">
+		dungeon.xml
+	</service>
+
+	<service id="0x2e" index="21" class="hero.novice.service.NoviceServiceImpl">
+		novice.xml
+	</service>
+
+	<service id="0x3c" index="22" class="hero.gm.service.GmServiceImpl">
+		gm.xml
+	</service>
+
+	<service id="0x3a" index="24" class="hero.pet.service.PetServiceImpl">
+		pet.xml
+	</service>
+	<service id="0x2c" index="25" class="hero.micro.service.MicroServiceImpl">
+		micro.xml
+	</service>
+	<service id="0x26" index="26" class="hero.log.service.LogServiceImpl">
+		log.xml
+	</service>
+
+	<service id="0x3b" index="23" class="hero.charge.service.ChargeServiceImpl">
+		charge.xml
+	</service>
+	
+	<service id="0x4d" index="24" class="hero.dcnbbs.service.BbsServiceImpl">
+		bbs.xml
+	</service>
+
+</include>

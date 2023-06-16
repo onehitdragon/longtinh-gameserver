@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <name>低吼</name>
+    <needLevel>1</needLevel>
+    <type>特殊</type>
+    <level>1</level>
+    <disAfterDie>是</disAfterDie>
+    <isBuff>否</isBuff>
+    <replaceID>60005</replaceID>
+    <keepTime>2.5</keepTime>
+    <calMode>加</calMode>
+    <physicsAttackHarmValue>-30</physicsAttackHarmValue>
+    <iconID>3</iconID>
+    <description>你受到了撕咬的效果,每2秒受到6点伤害</description>
+  </data>
+</include>

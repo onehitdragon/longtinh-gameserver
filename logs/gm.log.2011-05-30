@@ -1,0 +1,12 @@
+[2011-05-30 18:14:17,484]-INFO  (hero.gm.service.GmServiceImpl:102)|### GmServiceImpl start..
+[2011-05-30 18:14:17,515]-INFO  (hero.gm.service.GmServiceImpl:69)|id:60
+name:gm
+version:1.0.0
+author:DingChu
+
+[2011-05-30 18:28:56,375]-INFO  (hero.gm.service.GmServiceImpl:102)|### GmServiceImpl start..
+[2011-05-30 18:28:56,406]-INFO  (hero.gm.service.GmServiceImpl:69)|id:60
+name:gm
+version:1.0.0
+author:DingChu
+

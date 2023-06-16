@@ -1,0 +1,40 @@
+[2011-05-25 13:55:48,734]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:24:37,562]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:26:08,750]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:31:43,125]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:32:09,562]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:34:08,546]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:37:23,031]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:37:36,828]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:44:07,046]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:44:27,000]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:44:55,546]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:45:52,078]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:46:35,015]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:48:52,125]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 15:49:37,250]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-25 17:56:39,234]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+

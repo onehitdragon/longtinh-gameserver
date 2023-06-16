@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0xe</id>
+		<name>skill</name>
+		<class>hero.skill.service.SkillServiceImpl</class>
+		<version>1.0.0</version>
+		<author>ChooraDing</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0xe01">hero.skill.clienthandler.ReleaseSkill</clientprocess>
+	    <!--<clientprocess id="0xe12">hero.skill.clienthandler.PetReleaseSkill</clientprocess>-->
+	    <clientprocess id="0xe13">hero.skill.clienthandler.UpSkill</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0xe02">hero.skill.message.LearnedSkillListNotify</message>
+		<message id="0xe03">hero.skill.message.AddSkillNotify</message>
+		<message id="0xe04">hero.skill.message.SkillUpgradeNotify</message>
+		<message id="0xe05">hero.skill.message.RestoreSkillCoolDownNotify</message>
+		<message id="0xe06">hero.skill.message.UpdateLearnableSkillList</message>
+		<message id="0xe07">hero.skill.message.ChangeAllSkillReleaseTimePercent</message>
+		<message id="0xe08">hero.skill.message.RefreshSkillTime</message>
+		<message id="0xe09">hero.skill.message.UpdateActiveSkillNotify</message>
+		<message id="0xe10">hero.skill.message.SkillAnimationNotify</message>
+		<message id="0xe11">hero.skill.message.ReviveConfirm</message>
+	</messages>
+	<para>
+	      <active_skill_data_path>res/data/skill/unit/active</active_skill_data_path>
+	      <touch_skill_data_path>res/data/skill/unit/touch</touch_skill_data_path>
+	      <enhance_skill_data_path>res/data/skill/unit/enhance/</enhance_skill_data_path>
+	      <change_property_skill_data_path>res/data/skill/unit/property</change_property_skill_data_path>
+	      <player_skill_data_path>res/data/skill/player</player_skill_data_path>
+	      <monster_skill_data_path>res/data/skill/monster</monster_skill_data_path>
+	</para>
+</include>

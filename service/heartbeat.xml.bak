@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x14</id>
+		<name>heartbeatService</name>
+		<class>me2.service.basic.hearbeat.HeartbeatServiceImpl</class>
+		<version>1.0.0</version>
+		<description>heartbeat</description>
+		<author>Insunny</author>
+	</service>
+	<clienthandlers>
+		<clienthandler id="0x1400">me2.service.basic.hearbeat.HeartbeatCH</clienthandler>
+	</clienthandlers>
+	
+</include>

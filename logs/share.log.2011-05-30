@@ -1,0 +1,84 @@
+[2011-05-30 18:14:16,765]-INFO  (hero.share.service.ShareServiceImpl:69)|id:93
+name:shareService
+version:1.0.0
+author:DingChu
+description:不隶属于专有模块的共享服务
+
+[2011-05-30 18:14:46,734]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/weaponattack/844.anu
+[2011-05-30 18:14:46,734]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->928
+[2011-05-30 18:14:46,734]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/weaponattack/844.png
+[2011-05-30 18:14:46,734]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->2617
+[2011-05-30 18:14:46,953]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/npc/2.anu
+[2011-05-30 18:14:46,953]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->568
+[2011-05-30 18:14:46,953]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/npc/2.png
+[2011-05-30 18:14:46,953]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1583
+[2011-05-30 18:14:47,031]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/orge/207.anu
+[2011-05-30 18:14:47,031]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1321
+[2011-05-30 18:14:47,031]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/orge/207.png
+[2011-05-30 18:14:47,031]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1535
+[2011-05-30 18:14:47,109]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/orge/236.anu
+[2011-05-30 18:14:47,109]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1835
+[2011-05-30 18:14:47,109]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/orge/236.png
+[2011-05-30 18:14:47,109]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1716
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop_v5/81.png
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->367
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop_v5/89.png
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->363
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop_v5/207.png
+[2011-05-30 18:14:47,984]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->386
+[2011-05-30 18:14:48,046]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/14.png
+[2011-05-30 18:14:48,046]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1152
+[2011-05-30 18:14:48,062]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/7.png
+[2011-05-30 18:14:48,062]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->403
+[2011-05-30 18:14:48,062]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/24.png
+[2011-05-30 18:14:48,062]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->385
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/29.png
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->289
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/31.png
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->293
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/32.png
+[2011-05-30 18:14:48,140]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->293
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/30.png
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->296
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/16.png
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1123
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/20.png
+[2011-05-30 18:14:48,203]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->343
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/11.png
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->1097
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/sys_v5/9.png
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->349
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/building/129.png
+[2011-05-30 18:14:48,281]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->3392
+[2011-05-30 18:14:55,203]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/307.png
+[2011-05-30 18:14:55,203]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->236
+[2011-05-30 18:14:56,468]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/35.png
+[2011-05-30 18:14:56,468]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->335
+[2011-05-30 18:14:56,468]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/33.png
+[2011-05-30 18:14:56,468]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->396
+[2011-05-30 18:14:56,468]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/38.png
+[2011-05-30 18:14:56,484]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->304
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/42.png
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->343
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/30.png
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->350
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/98.png
+[2011-05-30 18:14:56,546]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->397
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/308.png
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->236
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/302.png
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->266
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/prop/305.png
+[2011-05-30 18:15:13,218]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->285
+[2011-05-30 18:15:27,140]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/building/35.png
+[2011-05-30 18:15:27,140]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->4034
+[2011-05-30 18:15:31,453]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/building/99.png
+[2011-05-30 18:15:31,453]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->720
+[2011-05-30 18:15:31,812]-INFO  (hero.share.clienthandler.RequestDownload:65)|发送前的fileURL--->/building/56.png
+[2011-05-30 18:15:31,812]-INFO  (hero.share.clienthandler.RequestDownload:67)|发送前的file.length--->558
+[2011-05-30 18:28:55,734]-INFO  (hero.share.service.ShareServiceImpl:69)|id:93
+name:shareService
+version:1.0.0
+author:DingChu
+description:不隶属于专有模块的共享服务
+

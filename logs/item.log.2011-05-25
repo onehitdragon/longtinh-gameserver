@@ -1,0 +1,60 @@
+[2011-05-25 13:55:26,281]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:24:24,953]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:26:00,171]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:31:35,000]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:32:09,359]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:32:09,515]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:32:09,562]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 340player id = 20525
+[2011-05-25 15:32:19,609]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:34:08,546]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 340player id = 20525
+[2011-05-25 15:35:09,562]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:37:14,734]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:37:36,828]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 340player id = 20525
+[2011-05-25 15:39:57,703]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:41:17,296]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:41:37,859]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:44:07,046]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 436player id = 19781
+[2011-05-25 15:44:27,000]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 340player id = 20525
+[2011-05-25 15:44:55,546]-INFO  (hero.item.message.SendBodyWearList:62)|output size = 340player id = 20525
+[2011-05-25 15:46:37,984]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:38,046]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:38,093]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:39,437]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:39,453]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:39,484]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:42,109]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:42,125]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:44,109]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:44,171]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:46:44,281]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:49:32,750]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:51:14,453]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:51:29,437]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 15:53:56,640]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 16:01:58,906]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 16:13:56,656]-INFO  (hero.item.bag.SingleGoodsBag:734)|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!药水/特殊物品数量发生变化
+[2011-05-25 17:56:30,890]-INFO  (hero.item.service.GoodsServiceImpl:69)|id:29
+name:item
+version:1.0.0
+author:DingChu
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data>
+    <mpReduce>12</mpReduce>
+  </data>
+  <data>
+    <mpReduce>14</mpReduce>
+  </data>
+  <data>
+    <mpReduce>17</mpReduce>
+  </data>
+  <data>
+    <mpReduce>20</mpReduce>
+  </data>
+  <data>
+    <mpReduce>23</mpReduce>
+  </data>
+  <data>
+    <mpReduce>34</mpReduce>
+  </data>
+  <data>
+    <mpReduce>38</mpReduce>
+  </data>
+  <data>
+    <mpReduce>43</mpReduce>
+  </data>
+  <data>
+    <mpReduce>49</mpReduce>
+  </data>
+  <data>
+    <mpReduce>55</mpReduce>
+  </data>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+  <data/>
+</include>

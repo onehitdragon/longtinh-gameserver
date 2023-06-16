@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>0</id>
+    <name>移动充值卡充值</name>
+    <feetype>充值</feetype>
+    <card_type>移动</card_type>
+    <desc>请选择充值卡金额 提示：若您选择的充值卡金额与您持有的充值卡面值不符，将导致交易失败，充值卡也可能失效</desc>
+  </data>
+  <data>
+    <id>1</id>
+    <name>联通充值卡充值</name>
+    <feetype>充值</feetype>
+    <card_type>联通</card_type>
+    <desc>请选择充值卡金额 提示：若您选择的充值卡金额与您持有的充值卡面值不符，将导致交易失败，充值卡也可能失效</desc>
+  </data>
+  <data>
+    <id>2</id>
+    <name>电信充值卡充值</name>
+    <feetype>充值</feetype>
+    <card_type>电信</card_type>
+    <desc>请选择充值卡金额 提示：若您选择的充值卡金额与您持有的充值卡面值不符，将导致交易失败，充值卡也可能失效</desc>
+  </data>
+  <data>
+    <id>3</id>
+    <name>网游、短信计费</name>
+    <feetype>计费</feetype>
+    <desc>网游、短信计费</desc>
+  </data>
+</include>

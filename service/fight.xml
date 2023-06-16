@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x1c</id>
+		<name>fightService</name>
+		<class>hero.fight.service.FightServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x1c01">hero.fight.clienthandler.PhysicsAttack</clientprocess>
+		<clientprocess id="0x1c02">hero.fight.clienthandler.PetPhysicsAttack</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x1c11">hero.fight.message.SpecialStatusChangeNotify</message>
+		<message id="0x1c12">hero.fight.message.HpRefreshNotify</message>
+		<message id="0x1c13">hero.fight.message.AttackMissNotify</message>
+		<message id="0x1c15">hero.fight.message.MpRefreshNotify</message>
+		<message id="0x1c16">hero.fight.message.GenericAttackViewNotify</message>
+		<message id="0x1c20">hero.fight.message.FightStatusChangeNotify</message>
+	</messages>
+	<para>
+	<sword_attack_target_animation>783,783</sword_attack_target_animation>
+	<dagger_attack_target_animation>783,783</dagger_attack_target_animation>
+	<bow_attack_target_animation>783,783</bow_attack_target_animation>
+	<hammer_attack_target_animation>783,783</hammer_attack_target_animation>
+	<staff_attack_target_animation>783,783</staff_attack_target_animation>
+	<disengage_fight_seconds>15</disengage_fight_seconds> <!--PVP中15秒不攻击即脱离战斗-->
+	</para>
+</include>

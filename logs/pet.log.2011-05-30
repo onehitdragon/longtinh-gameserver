@@ -1,0 +1,11 @@
+[2011-05-30 18:14:17,609]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+
+[2011-05-30 18:14:45,453]-INFO  (hero.pet.message.ResponseWearPetGridNumber:64)|output size = 6
+[2011-05-30 18:28:56,468]-INFO  (hero.pet.service.PetServiceImpl:69)|id:58
+name:pet
+version:1.0.0
+author:DingChu
+

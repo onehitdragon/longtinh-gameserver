@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x29</id>
+		<name>dungeon</name>
+		<class>hero.dungeon.service.DungeonServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0x2901">hero.dungeon.clientHandler.RequestDungeonHistoryInfo</clientprocess>
+        <clientprocess id="0x2902">hero.dungeon.clientHandler.PlayerReplayDungeonPattern</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0x2901">hero.dungeon.message.ResponseDungeonHistoryInfo</message>
+        <message id="0x2903">hero.dungeon.message.AskPlayerDungeonPattern</message>
+	</messages>
+	<config>
+	    <dungeon_data_path>res/maps/dungeon</dungeon_data_path>
+	    <history_refresh_time>5</history_refresh_time>
+	    <raid_history_refresh_week>1</raid_history_refresh_week>
+	    <!--在困难模式附加等级-->
+	    <difficult_addition_level>0</difficult_addition_level> 
+	</config>
+</include>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x61</id>
+		<name>DuelService</name>
+		<class>hero.duel.service.DuelServiceImpl</class>
+		<version>1.0.0</version>
+		<author>lulin</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x6101">hero.duel.clienthandler.DuleRequest</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0x6102">hero.duel.message.ResponseDuel</message>
+	</messages>
+	<duelconfig>
+		<duel_time_alert_interval>100</duel_time_alert_interval>
+		<duel_count_down>3</duel_count_down>
+		<duel_sum_time>300</duel_sum_time>
+	</duelconfig>
+</include>

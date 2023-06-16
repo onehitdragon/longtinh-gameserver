@@ -1,0 +1,42 @@
+[2011-05-30 18:14:17,140]-INFO  (hero.task.service.TaskServiceImpl:69)|id:15
+name:task
+version:1.0.0
+author:DingChu
+
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3600
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3601
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):1
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3606
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3607
+[2011-05-30 18:14:45,390]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3600
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3601
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):1
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3606
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3607
+[2011-05-30 18:14:46,640]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3600
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):1
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3601
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3606
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3607
+[2011-05-30 18:15:22,828]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3600
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):1
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3601
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3606
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:53)|npcTaskMarks.get(i++):3607
+[2011-05-30 18:15:22,859]-INFO  (hero.task.message.NotifyMapNpcTaskMark:55)|npcTaskMarks.get(i++):0
+[2011-05-30 18:28:56,062]-INFO  (hero.task.service.TaskServiceImpl:69)|id:15
+name:task
+version:1.0.0
+author:DingChu
+

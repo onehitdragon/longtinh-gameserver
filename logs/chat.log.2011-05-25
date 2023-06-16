@@ -1,0 +1,136 @@
+[2011-05-25 13:55:31,171]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 13:55:48,171]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 13:57:35,343]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 14:02:36,359]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 14:07:37,343]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 14:12:38,359]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 14:17:39,328]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:24:29,890]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 15:24:37,343]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:26:05,109]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 15:26:08,640]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:28:05,312]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:31:39,750]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 15:31:43,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:33:39,953]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:37:19,703]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 15:37:22,953]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:39:19,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:44:20,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:49:21,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:54:22,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 15:59:23,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:04:24,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:09:25,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:14:26,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:19:27,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:24:28,906]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:29:29,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:34:30,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:39:31,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:44:32,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:49:33,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:54:34,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 16:59:35,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:04:36,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:09:37,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:14:38,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:19:39,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:24:40,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:29:41,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:34:42,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:39:43,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:44:44,937]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:49:45,921]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:54:46,953]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:56:35,812]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-25 17:56:39,140]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 17:58:36,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:03:37,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:08:38,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:13:39,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:18:40,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:23:41,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:28:42,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:33:43,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:38:44,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:43:45,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:48:46,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:53:47,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 18:58:48,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:03:49,062]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:08:50,062]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:13:51,046]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:18:52,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:23:53,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:28:54,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:33:55,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:38:56,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:43:57,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:48:58,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:53:59,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 19:59:00,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:04:01,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:09:02,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:14:03,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:19:04,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:24:05,046]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:29:06,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:34:07,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:39:08,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:44:09,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:49:10,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:54:11,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 20:59:12,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:04:13,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:09:14,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:14:15,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:19:16,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:24:17,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:29:18,015]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:34:19,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:39:20,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:44:21,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:49:22,046]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:54:23,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 21:59:24,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:04:25,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:09:26,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:14:27,093]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:19:28,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:24:29,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:29:30,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:34:31,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:39:32,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:44:33,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:49:34,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:54:35,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 22:59:36,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 23:04:37,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 23:09:38,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 23:14:39,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-25 23:19:40,031]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0

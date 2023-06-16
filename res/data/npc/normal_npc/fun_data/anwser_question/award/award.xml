@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <goodsSum>3</goodsSum>
+    <goods1ID>340094</goods1ID>
+    <goods1Point>3</goods1Point>
+    <goods2ID>340095</goods2ID>
+    <goods2Point>7</goods2Point>
+    <goods3ID>340096</goods3ID>
+    <goods3Point>10</goods3Point>
+  </data>
+</include>

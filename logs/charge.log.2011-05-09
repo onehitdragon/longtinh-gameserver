@@ -1,0 +1,7 @@
+[2011-05-09 22:25:45,937]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-09 22:25:45,937]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-09 22:25:45,953]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+

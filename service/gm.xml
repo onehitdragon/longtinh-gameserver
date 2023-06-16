@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x3c</id>
+		<name>gm</name>
+		<class>hero.gm.service.GmServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+ 
+	<clientprocesses>		
+	    <!--
+	    <clientprocess id="0x3c01">hero.gm.clienthandler.GmQuestionHandler</clientprocess>
+	    <clientprocess id="0x3c02">hero.gm.clienthandler.ToGmChatHandler</clientprocess>
+		<clientprocess id="0x3c03">hero.gm.clienthandler.GmCommitHandler</clientprocess>
+		-->
+		<clientprocess id="0x3c04">hero.gm.clienthandler.ToGmLetterHandler</clientprocess>
+		
+		<clientprocess id="0x3c05">hero.gm.clienthandler.TestRequestUpAndDownTime</clientprocess>
+	</clientprocesses>
+
+	<messages>
+		<message id="0x3c01">hero.gm.message.GmQuestionSubmitFeedback</message>
+		<!--
+		<message id="0x3c02">hero.gm.message.GmReplyResponse</message>
+	    <message id="0x3c03">hero.gm.message.GmCommitResponse</message>		
+		-->
+		<message id="0x3c06">hero.gm.message.TestResponseUpAndDownTime</message>
+	</messages>
+	 
+	<config>
+
+		<!-- GM port -->
+		<port>8788</port>
+		<!-- 这里是配置服务器分区ID的 ,每个服务端的分区ID都不一样，要具体配置 -->
+		<gameID>1</gameID>
+		<serverID>1</serverID>
+		<add_chat_content_to_gm_url>http://localhost/gmTools/login/addchat</add_chat_content_to_gm_url>
+	
+		<!-- 帐号数据库-->
+		<gm_db_url>127.0.0.1:3306</gm_db_url>
+		<gm_db_name>xj_account_hefu</gm_db_name> 
+		<gm_name>root</gm_name>
+		<gm_password></gm_password>
+  	</config>
+</include>

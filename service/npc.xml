@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x2d</id>
+		<name>npcService</name>
+		<class>hero.npc.service.NotPlayerServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x2d01">
+			hero.npc.clienthandler.InteractiveRequest
+		</clientprocess>
+		<clientprocess id="0x2d11">
+			hero.npc.clienthandler.OptionTaskGear
+		</clientprocess>
+		<clientprocess id="0x2d04">
+			hero.npc.clienthandler.PickBox
+		</clientprocess>
+		<clientprocess id="0x2d05">
+			hero.npc.clienthandler.PickGroundTaskGoods
+		</clientprocess>
+        <clientprocess id="0x2d06">hero.npc.clienthandler.PlayerReplyWeddign</clientprocess>
+        <clientprocess id="0x2d07">hero.npc.clienthandler.AttendMarryReply</clientprocess>
+        <clientprocess id="0x2d08">hero.npc.clienthandler.RequestLover</clientprocess>
+        <clientprocess id="0x2d09">hero.npc.clienthandler.ReplyPlayerBuyDivorce</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x2d02">hero.npc.message.NpcInteractiveResponse</message>
+		<message id="0x2d03">hero.npc.message.ChangeNpcStat</message>
+		<message id="0x2d12">hero.npc.message.ChangeTaskGearStat</message>
+		<message id="0x2d13">hero.npc.message.BoxRefreshNofity</message>
+		<message id="0x2d14">hero.npc.message.BoxDisappearNofity</message>
+		<message id="0x2d15">hero.npc.message.ChangeGroundTaskGoodsStat</message>
+		<message id="0x2d16">hero.npc.message.GroundTaskGoodsDisappearNofity</message>
+		<message id="0x2d17">hero.npc.message.GroundTaskGoodsEmergeNotify</message>
+		<message id="0x2d18">hero.npc.message.NpcWalkNotify</message>
+		<message id="0x2d19">hero.npc.message.MonsterWalkNotify</message>
+		<message id="0x2d20">hero.npc.message.MonsterShoutNotify</message>
+		<message id="0x2d21">hero.npc.message.NpcResetNotify</message>
+		<message id="0x2d22">hero.npc.message.NpcRefreshNotify</message>
+		<message id="0x2d23">hero.npc.message.MonsterRefreshNotify</message>
+	    <message id="0x2d24">hero.npc.message.MonsterDisengageFightNotify</message>
+	    <message id="0x2d25">hero.npc.message.MonsterEmergeNotify</message>
+	    <message id="0x2d31">hero.npc.message.AnimalWalkNotify</message>
+	    <message id="0x2d32">hero.npc.message.MonsterChangesNotify</message>
+	    <message id="0x2d33">hero.npc.message.RangeSkillWarning</message>
+        <message id="0x2d34">hero.npc.message.AskPlayerAgreeWedding</message>
+        <message id="0x2d35">hero.npc.message.InviteAttendWedding</message>
+        <message id="0x2d36">hero.npc.message.AskPlayerBuyDivorce</message>
+	</messages>
+
+	<!-- 所有下行命令 -->
+	<!-- NPC服务的相关属性配置 -->
+	<npc>
+		<npc_function_data_evidenve_gift>res/data/npc/normal_npc/fun_data/evidenve_gift</npc_function_data_evidenve_gift>
+		<npc_function_data_evidenve_award>res/data/npc/normal_npc/fun_data/evidenve_gift/award</npc_function_data_evidenve_award>
+		<npc_function_data_question>res/data/npc/normal_npc/fun_data/anwser_question/question</npc_function_data_question>
+		<npc_function_data_award>res/data/npc/normal_npc/fun_data/anwser_question/award</npc_function_data_award>
+		<npc_function_data_anwser_question>res/data/npc/normal_npc/fun_data/anwser_question</npc_function_data_anwser_question>
+		<monsterImageH>res/tiles/monster/image/high</monsterImageH>
+		<monsterImageL>res/tiles/monster/image/low</monsterImageL>
+		<monsterImageCfg>res/tiles/monster/config</monsterImageCfg>
+		<NPCImage>res/tiles/npc/image</NPCImage>
+        <NPCImageCfg>res/tiles/npc/config</NPCImageCfg>
+        <MONSTER_DATA_PATH>res/data/npc/monster</MONSTER_DATA_PATH>
+        <NPC_NAME_LENGTH>10</NPC_NAME_LENGTH>
+        <NPC_HELLO_PATH>res/data/npc/normal_npc/hello</NPC_HELLO_PATH>
+        <NPC_DATA_PATH>res/data/npc/normal_npc</NPC_DATA_PATH>
+        <npc_fun_icon_path>res/data/npc/normal_npc/fun_icon</npc_fun_icon_path>
+        <NPC_ATTACK_INTERVAL>3000</NPC_ATTACK_INTERVAL>
+        <MONSTER_ATTACK_INTERVAL>3000</MONSTER_ATTACK_INTERVAL>
+        <MONSTER_AI_INTERVAL>1000</MONSTER_AI_INTERVAL>
+        <MONSTER_MOVE_MOST_FAST_GRID>7</MONSTER_MOVE_MOST_FAST_GRID>
+        <MONSTER_MOVE_GRID_NUM_PER_TIME>3</MONSTER_MOVE_GRID_NUM_PER_TIME>
+        <MONSTER_ACTIVE_MOVE_INTERVAL>10000</MONSTER_ACTIVE_MOVE_INTERVAL>
+        <NPC_FOLLOW_GRID_DISTANCE_OF_TARGET>1</NPC_FOLLOW_GRID_DISTANCE_OF_TARGET>
+        <NPC_FOLLOW_MOST_FAST_GRID>10</NPC_FOLLOW_MOST_FAST_GRID>
+        <ANIMAL_WALK_GRID_NUM_PER_TIME>5</ANIMAL_WALK_GRID_NUM_PER_TIME>
+        <ANIMAL_DATA_PATH>res/data/npc/animal</ANIMAL_DATA_PATH>
+        <ANIMAL_IMAGE_PATH>res/tiles/animal</ANIMAL_IMAGE_PATH>
+        <GEAR_DATA_PATH>res/data/npc/gear</GEAR_DATA_PATH>
+        <other_task_object_image_path>res/tiles/other_task_object</other_task_object_image_path>
+        <ROAD_PLATE_DATA_PATH>res/data/npc/road_plate</ROAD_PLATE_DATA_PATH>
+        <door_plate_data_path>res/data/npc/door_plate</door_plate_data_path>
+        <BOX_DATA_PATH>res/data/npc/box</BOX_DATA_PATH>
+        <TASK_GOODS_ON_MAP_DATA_PATH>res/data/npc/ground_task_goods</TASK_GOODS_ON_MAP_DATA_PATH>
+        <TASK_GOODS_ON_MAP_IMAGE_PATH>res/tiles/ground_task_goods</TASK_GOODS_ON_MAP_IMAGE_PATH>
+        <MONSTER_AI_DATA_PATH>res/data/ai</MONSTER_AI_DATA_PATH>
+        <MONSTER_SKILL_AI_DATA_PATH>res/data/ai/skill</MONSTER_SKILL_AI_DATA_PATH>
+        <MONSTER_SPECIAL_AI_DATA_PATH>res/data/ai/special</MONSTER_SPECIAL_AI_DATA_PATH>
+        <MONSTER_CALL_DATA_PATH>res/data/ai/special/call</MONSTER_CALL_DATA_PATH>
+        <MONSTER_CHANGES_DATA_PATH>res/data/ai/special/changes</MONSTER_CHANGES_DATA_PATH>
+        <MONSTER_DISAPPEAR_DATA_PATH>res/data/ai/special/disappear</MONSTER_DISAPPEAR_DATA_PATH>
+        <MONSTER_RUN_AWAY_DATA_PATH>res/data/ai/special/run</MONSTER_RUN_AWAY_DATA_PATH>
+        <MONSTER_SHOUT_DATA_PATH>res/data/ai/special/shout</MONSTER_SHOUT_DATA_PATH>
+        <DUNGEON_MANAGER_DATA_PATH>res/maps/dungeon/transmit</DUNGEON_MANAGER_DATA_PATH>
+        <trader_sell_content_data_path>res/data/npc/sell_content</trader_sell_content_data_path>
+        <trader_exchange_content_data_path>res/data/npc/exchange_content</trader_exchange_content_data_path>
+        <task_call_monster_exist_time>115000</task_call_monster_exist_time>
+        <ai_call_monster_exist_time>300000</ai_call_monster_exist_time> <!--怪物召唤出召唤兽的存在时间-->
+        <ai_follow_distance>9</ai_follow_distance> <!--ai追击距AI自己出生点的距离-->
+        <ai_follow_grid>15</ai_follow_grid> <!--ai追击 总格子数 (2个条件 一起判断)-->
+        <task_gather_rebirth_interval>15</task_gather_rebirth_interval> <!--地上任务物品刷新周期. 秒为单位-->
+        <task_gather_thread_run_interval>5</task_gather_thread_run_interval> <!--地上任务采集物品线程sleep周期 (单位:秒)-->
+ 	</npc>
+</include>

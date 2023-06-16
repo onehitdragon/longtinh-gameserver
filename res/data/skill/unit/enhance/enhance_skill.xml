@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>50001</id>
+    <name>愤怒打击强化一</name>
+    <target1Type>技能单元</target1Type>
+    <target1Name>单倍攻击一</target1Name>
+    <target1ColumnName>物理伤害值</target1ColumnName>
+    <target1Operator>乘</target1Operator>
+    <target1Value>100</target1Value>
+  </data>
+  <data>
+    <id>50002</id>
+    <name>武器精通增加</name>
+    <target1Type>总表</target1Type>
+    <target1Name>割裂</target1Name>
+    <target1ColumnName>需求武器类型</target1ColumnName>
+    <target1Operator>加</target1Operator>
+    <target1Value>锤</target1Value>
+  </data>
+</include>

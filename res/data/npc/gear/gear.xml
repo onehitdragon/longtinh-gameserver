@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>g1</id>
+    <name>地下陵墓入口</name>
+    <taskID>800</taskID>
+    <optionDesc>启动</optionDesc>
+    <imageID>68</imageID>
+    <description>让我们来一起守护先人的亡灵吧.</description>
+  </data>
+</include>

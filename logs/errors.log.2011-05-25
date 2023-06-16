@@ -1,0 +1,454 @@
+[2011-05-25 13:55:30,265]-ERROR (hero.map.service.MapModelDataDict:196)|地图名称 和 地图 ID 不匹配，找策划去！
+[2011-05-25 13:55:30,296]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,296]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,453]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,468]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,515]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,546]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,546]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,671]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,687]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,703]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,718]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,765]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:30,781]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:396)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:55:48,156]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.gm.service.GmServiceImpl.startService(GmServiceImpl.java:109)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 13:57:35,343]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.chat.service.ChatServiceImpl$GmNoticeLoadTask.run(ChatServiceImpl.java:623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[2011-05-25 14:02:36,359]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.chat.service.ChatServiceImpl$GmNoticeLoadTask.run(ChatServiceImpl.java:623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[2011-05-25 14:07:37,343]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.chat.service.ChatServiceImpl$GmNoticeLoadTask.run(ChatServiceImpl.java:623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[2011-05-25 14:12:38,343]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.chat.service.ChatServiceImpl$GmNoticeLoadTask.run(ChatServiceImpl.java:623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[2011-05-25 14:17:39,328]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.chat.service.ChatServiceImpl$GmNoticeLoadTask.run(ChatServiceImpl.java:623)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+[2011-05-25 15:24:29,343]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:24:37,328]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.gm.service.GmServiceImpl.startService(GmServiceImpl.java:109)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:26:04,656]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:31:39,312]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-25 15:35:02,593]-ERROR (hero.fight.clienthandler.PhysicsAttack:82)|null == target, targetType=3, targetObjectID=3637
+[2011-05-25 15:37:19,359]-ERROR (hero.map.service.MapServiceImpl:625)|build map error : 
+java.lang.NullPointerException
+	at hero.npc.dict.DungeonManagerDict.getDungeonID(DungeonManagerDict.java:66)
+	at hero.npc.function.FunctionBuilder.build(FunctionBuilder.java:135)
+	at hero.npc.service.NotPlayerServiceImpl.buildNpcInstance(NotPlayerServiceImpl.java:1514)
+	at hero.map.service.MapServiceImpl.buildMap(MapServiceImpl.java:419)
+	at hero.map.service.MapServiceImpl.loadNormalMap(MapServiceImpl.java:295)
+	at hero.map.service.MapServiceImpl.startService(MapServiceImpl.java:121)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)

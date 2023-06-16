@@ -1,0 +1,26 @@
+[2011-05-30 18:11:45,015]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-30 18:14:09,468]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-30 18:14:43,312]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@18083b3
+[2011-05-30 18:14:44,906]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-30 18:14:45,390]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 174player id = 20581
+[2011-05-30 18:14:45,453]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-30 18:14:45,468]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 174player id = 20581
+[2011-05-30 18:14:46,640]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-30 18:15:22,812]-INFO  (hero.player.HeroPlayer:820)|[糖罐]获得经验值:200
+[2011-05-30 18:15:22,828]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20581
+[2011-05-30 18:28:48,703]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+

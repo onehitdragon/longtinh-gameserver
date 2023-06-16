@@ -1,0 +1,268 @@
+[2011-05-31 09:31:19,359]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 09:32:17,421]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 09:32:17,421]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 09:32:17,421]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 09:32:17,421]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 09:32:17,421]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 09:32:17,421]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 09:32:17,437]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 09:32:17,437]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 09:32:17,437]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 09:32:17,437]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 09:32:17,453]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 09:32:17,453]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 09:32:17,656]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 09:32:17,671]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 09:32:18,609]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 09:34:53,546]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 11:14:26,453]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 12:37:02,453]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 12:37:25,328]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 12:37:25,328]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 12:37:25,328]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 12:37:25,328]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 12:37:25,328]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 12:37:25,328]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 12:37:25,359]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 12:37:25,359]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 12:37:25,359]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 12:37:25,359]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 12:37:25,359]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 12:37:25,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 12:37:25,375]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 12:37:25,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 12:37:25,375]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 12:37:25,375]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 12:37:25,375]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 12:37:25,390]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 12:37:25,390]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 12:37:25,593]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 12:37:25,593]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 12:37:26,234]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 12:41:43,359]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 12:41:43,359]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 12:41:43,359]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 12:41:43,359]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 12:41:43,375]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 12:41:43,375]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 12:41:43,375]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 12:41:43,375]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 12:41:43,375]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 12:41:43,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 12:41:43,390]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 12:41:43,390]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 12:41:43,390]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 12:41:43,390]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 12:41:43,593]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 12:41:43,593]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 12:41:44,265]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 13:42:03,484]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 13:42:30,640]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 13:42:30,656]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 13:42:30,656]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 13:42:30,656]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 13:42:30,656]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 13:42:30,671]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 13:42:30,671]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 13:42:30,687]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 13:42:30,687]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 13:42:30,875]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 13:42:30,875]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 13:42:31,500]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 13:48:43,546]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 13:48:43,562]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 1067
+[2011-05-31 13:48:43,828]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-31 13:48:43,828]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 13:54:23,531]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 13:54:53,593]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 13:54:53,593]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 13:54:53,593]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 13:54:53,593]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 13:54:53,593]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 13:54:53,593]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 13:54:53,609]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 13:54:53,609]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 13:54:53,609]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 13:54:53,609]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 13:54:53,609]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 13:54:53,609]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 13:54:53,609]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 13:54:53,625]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 13:54:53,625]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 13:54:53,625]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 13:54:53,625]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 13:54:53,625]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 13:54:53,625]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 13:54:53,859]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 13:54:53,859]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 13:54:54,375]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 14:03:21,812]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 14:07:17,953]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 14:07:39,734]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 14:07:39,734]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 14:07:39,734]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 14:07:39,750]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 14:07:39,750]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 14:07:39,750]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 14:07:39,750]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 14:07:39,750]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 14:07:39,750]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 14:07:39,765]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 14:07:39,781]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 14:07:39,984]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 14:07:39,984]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 14:07:40,640]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 14:11:50,968]-INFO  (hero.map.service.MapServiceImpl:69)|id:42
+name:mapService
+version:1.0.0
+author:Insunny
+
+[2011-05-31 14:12:30,406]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 14:12:30,406]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 14:12:30,421]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 14:12:30,421]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 14:12:30,437]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 14:12:30,640]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 14:12:30,640]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 14:12:31,234]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4149
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:225
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:225
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:201
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:201
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=11
+[2011-05-31 14:15:20,765]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 929
+[2011-05-31 14:15:20,765]-INFO  (hero.map.clienthandler.SwitchMap:129)|switch map end ...
+[2011-05-31 14:15:21,140]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-31 14:15:21,140]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:2
+[2011-05-31 14:15:21,140]-INFO  (hero.map.message.ResponseMapDecorateData:85)|warn:策划未填写动画ID,mapid=416;mapname=闪光岛
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 14:16:32,953]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 14:16:32,953]-INFO  (hero.map.clienthandler.SwitchMap:129)|switch map end ...
+[2011-05-31 14:16:33,312]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-31 14:16:33,312]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 14:17:22,468]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 1067
+[2011-05-31 14:17:22,828]-INFO  (hero.map.clienthandler.RequestMapTraceInfo:38)|@@@@@@@ RequestMapTraceInfo ...........
+[2011-05-31 14:17:22,828]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6
+[2011-05-31 14:37:32,359]-INFO  (hero.map.clienthandler.EnterGame:69)|#### player name[糖罐] login....
+[2011-05-31 14:37:32,359]-INFO  (hero.map.clienthandler.EnterGame:107)|player entry game where = 闪光仙界
+[2011-05-31 14:37:32,359]-INFO  (hero.map.clienthandler.EnterGame:130)|player entry game mapID = 415
+[2011-05-31 14:37:32,359]-INFO  (hero.map.clienthandler.EnterGame:135)|player login send notify enter map message.
+[2011-05-31 14:37:32,359]-INFO  (hero.map.message.ResponseMapBottomData:180)|output size = 4317
+[2011-05-31 14:37:32,359]-INFO  (hero.map.clienthandler.EnterGame:138)|player login send response map bottom data ...
+[2011-05-31 14:37:32,375]-INFO  (hero.map.clienthandler.EnterGame:152)|player login send body wear list message...
+[2011-05-31 14:37:32,375]-INFO  (hero.map.clienthandler.EnterGame:155)|player login send response wear pet grid number message...
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:279
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:279
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:207
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:207
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:433)|怪物imageID:236
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:435)|怪物animationID:236
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:461)|monsterList.size()=12
+[2011-05-31 14:37:32,375]-INFO  (hero.map.message.ResponseMapGameObjectList:531)|output size = 983
+[2011-05-31 14:37:32,375]-INFO  (hero.map.clienthandler.EnterGame:158)|player login send response map game object list ..
+[2011-05-31 14:37:32,375]-INFO  (hero.map.clienthandler.EnterGame:160)|player login refresh role property ...
+[2011-05-31 14:37:32,375]-INFO  (hero.map.clienthandler.EnterGame:168)|player send move speed changer notify message ...
+[2011-05-31 14:37:32,578]-INFO  (hero.map.clienthandler.EnterGame:175)|player login send charge list message ....
+[2011-05-31 14:37:32,578]-INFO  (hero.map.clienthandler.EnterGame:190)|player login save loginlog end ...
+[2011-05-31 14:37:33,171]-INFO  (hero.map.message.ResponseSceneElement:60)|map.elementImageIDList:6

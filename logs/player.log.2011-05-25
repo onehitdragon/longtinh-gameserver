@@ -1,0 +1,157 @@
+[2011-05-25 13:55:22,625]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:23:56,281]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:24:20,906]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:25:56,453]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:31:31,296]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:31:48,328]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@1b20e65
+[2011-05-25 15:32:07,187]-INFO  (hero.player.service.PlayerDAO:2663)|init player armorIDS length = 4
+[2011-05-25 15:32:07,187]-INFO  (hero.player.service.PlayerDAO:2681)|init player armorIDS length = 3
+[2011-05-25 15:32:07,187]-INFO  (hero.player.service.PlayerDAO:2696)|initWeaponID = 1111001
+[2011-05-25 15:32:07,187]-INFO  (hero.player.service.PlayerDAO:2702)|init Weapon = hero.item.EquipmentInstance@82fd0f
+[2011-05-25 15:32:07,187]-INFO  (hero.player.service.PlayerDAO:2704)|init player equip size = 4
+[2011-05-25 15:32:08,593]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:32:09,359]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:32:09,546]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:32:09,593]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:32:11,250]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:32:30,296]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:200
+[2011-05-25 15:32:30,343]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:32:41,734]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:336
+[2011-05-25 15:32:41,750]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:34:00,234]-INFO  (hero.player.service.PlayerServiceImpl:389)|cvad11; sessionID=1593901247  退出,或者被踢
+[2011-05-25 15:34:02,859]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@1b20e65
+[2011-05-25 15:34:08,203]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:34:08,546]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:34:08,546]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:34:10,015]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:34:25,765]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:8
+[2011-05-25 15:34:34,656]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:276
+[2011-05-25 15:34:39,140]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:460
+[2011-05-25 15:34:39,156]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:34:42,734]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:352
+[2011-05-25 15:35:01,968]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:21
+[2011-05-25 15:35:08,609]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:440
+[2011-05-25 15:35:08,625]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:35:18,187]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:504
+[2011-05-25 15:37:11,015]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+
+[2011-05-25 15:37:33,937]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 15:37:36,171]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:37:36,828]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:37:36,843]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:37:38,390]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:39:22,328]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:38
+[2011-05-25 15:39:38,703]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:630
+[2011-05-25 15:39:38,781]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:39:46,781]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:680
+[2011-05-25 15:39:57,781]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:760
+[2011-05-25 15:40:08,484]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:800
+[2011-05-25 15:40:08,515]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 174player id = 20525
+[2011-05-25 15:40:22,390]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:60
+[2011-05-25 15:40:52,296]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:60
+[2011-05-25 15:40:56,046]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:60
+[2011-05-25 15:41:00,578]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:912
+[2011-05-25 15:41:37,093]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:78
+[2011-05-25 15:41:46,859]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:1064
+[2011-05-25 15:41:46,890]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:41:56,937]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:1152
+[2011-05-25 15:42:01,218]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:1840
+[2011-05-25 15:43:26,546]-INFO  (hero.player.service.PlayerServiceImpl:389)|cvad11; sessionID=1594622187  退出,或者被踢
+[2011-05-25 15:43:27,250]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 15:44:06,500]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:44:07,046]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:44:07,062]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 19781
+[2011-05-25 15:44:08,468]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:44:15,453]-INFO  (hero.player.service.PlayerServiceImpl:389)|1ettoo; sessionID=1598046600  退出,或者被踢
+[2011-05-25 15:44:15,968]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 15:44:26,593]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:44:27,000]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:44:27,015]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:44:28,468]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:44:47,968]-INFO  (hero.player.service.PlayerServiceImpl:389)|cvad11; sessionID=1598243488  退出,或者被踢
+[2011-05-25 15:44:48,562]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 15:44:55,140]-INFO  (hero.player.service.PlayerServiceImpl:250)|rtt =0,player.receivedRepeateTaskTimes=0
+[2011-05-25 15:44:55,546]-INFO  (hero.player.message.ResponseRoleViewInfo:285)|output size = 105
+[2011-05-25 15:44:55,562]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:44:56,984]-INFO  (hero.player.clienthandler.InitRoleSecondly:66)|@@@@@@@@ InitRoleSecondly ..............
+[2011-05-25 15:45:18,375]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:8
+[2011-05-25 15:45:25,781]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:8
+[2011-05-25 15:45:30,593]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:8
+[2011-05-25 15:45:30,625]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:45:35,343]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:45:39,468]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:45:56,421]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:46:08,562]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:46:12,421]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:46:22,046]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:46:25,953]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:47:39,875]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:47:44,015]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:47:48,000]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:48:30,718]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:48:35,296]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:48:40,125]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:48:55,609]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:49:01,890]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:49:03,500]-INFO  (hero.player.message.RefreshRoleProperty:150)|output size = 175player id = 20525
+[2011-05-25 15:49:16,562]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:49:19,765]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:49:24,171]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:49:29,546]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:49:33,468]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:51:02,656]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:51:11,046]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 15:51:20,000]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:25,125]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:32,609]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:39,203]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:44,281]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:49,593]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:52,843]-INFO  (hero.player.clienthandler.Walk:104)|cvad11[移动50次花费]:415843
+[2011-05-25 15:51:54,171]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 15:51:57,296]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 16:01:53,640]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 16:01:57,140]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 16:02:02,718]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 16:02:06,093]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:12
+[2011-05-25 16:04:28,640]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 16:04:32,609]-INFO  (hero.player.HeroPlayer:820)|[cvad11]获得经验值:6
+[2011-05-25 16:27:16,156]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 16:29:51,000]-INFO  (hero.player.service.PlayerServiceImpl:389)|cvad11; sessionID=1598448567  退出,或者被踢
+[2011-05-25 17:48:56,640]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 17:49:03,234]-INFO  (hero.player.service.PlayerServiceImpl:1289)|触发listDefaultRole:hero.player.service.PlayerServiceImpl@63e60
+[2011-05-25 17:56:27,078]-INFO  (hero.player.service.PlayerServiceImpl:69)|id:4
+name:playerService
+version:1.0.0
+author:JOJO
+description:管理和维护玩家对象
+

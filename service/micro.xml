@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x2c</id>
+		<name>micro</name>
+		<class>hero.micro.service.MicroServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0x2c01">hero.micro.store.clienthandler.OperateStore</clientprocess>
+	    <clientprocess id="0x2c21">hero.micro.teach.clienthandler.OperateMAList</clientprocess>
+	    <clientprocess id="0x2c22">hero.micro.teach.clienthandler.SeekMasterAndRecruitApprenticeOperation</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0x2c11">hero.micro.store.message.ResponseStoreGoodsList</message>
+	    <message id="0x2c12">hero.micro.store.message.ResponseBagGoodsList</message>
+	    <message id="0x2c13">hero.micro.store.message.StoreStatusChanged</message>
+	    <message id="0x2c14">hero.micro.store.message.GridGoodsChangesNotify</message>
+	    <message id="0x2c15">hero.micro.store.message.OtherStoreGoodsList</message>
+	    <message id="0x2c22">hero.micro.teach.message.MAOperateConfirm</message>
+	    <message id="0x2c23">hero.micro.teach.message.ResponseMAList</message>
+        <message id="0x2c24">hero.micro.teach.message.ClearConfirmDialog</message>
+	</messages>
+	<config>
+	    
+	</config>
+</include>

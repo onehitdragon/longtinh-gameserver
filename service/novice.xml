@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x2e</id>
+		<name>novice</name>
+		<class>hero.novice.service.NoviceServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0x2e01">hero.novice.clienthandler.ExitNoviceWizard</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x2e02">hero.novice.message.EndNoviceWizard</message>
+	</messages>
+	<config>
+	    <novice_map_id>118</novice_map_id>
+	    <novice_map_born_x>18</novice_map_born_x>
+	    <novice_map_born_y>24</novice_map_born_y>
+	    <novice_task_experience>80</novice_task_experience>
+	    <novice_task_money>20000</novice_task_money>
+	    <novice_monster_experience>20</novice_monster_experience>
+	    <novice_monster_money>100</novice_monster_money>
+	    <level_when_complete_novice_teaching>1</level_when_complete_novice_teaching>
+	    <award_equipment_id>29177</award_equipment_id>
+	    <novice_award_skill_point>0</novice_award_skill_point><!--停用-->
+	    
+	    <is_novice_award>true</is_novice_award>
+	    <novice_li_shi_init_award_list></novice_li_shi_init_award_list>
+	    <novice_chi_hou_init_award_list></novice_chi_hou_init_award_list>
+	    <novice_fa_shi_init_award_list></novice_fa_shi_init_award_list>
+	    <novice_wu_yi_init_award_list></novice_wu_yi_init_award_list>
+	    
+	    <novice_award_item>310001,5;310012,5</novice_award_item>
+	    <novice_award_level>1</novice_award_level>
+	    <novice_award_money>0</novice_award_money>
+	</config>
+</include>

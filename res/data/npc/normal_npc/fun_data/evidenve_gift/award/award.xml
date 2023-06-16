@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <exp>0</exp>
+    <money>0</money>
+    <goodsSum>1</goodsSum>
+    <goods1ID>340089</goods1ID>
+  </data>
+  <data>
+    <id>2</id>
+    <exp>0</exp>
+    <money>0</money>
+    <goodsSum>1</goodsSum>
+    <goods1ID>340090</goods1ID>
+  </data>
+  <data>
+    <id>3</id>
+    <exp>0</exp>
+    <money>0</money>
+    <goodsSum>1</goodsSum>
+    <goods1ID>340091</goods1ID>
+  </data>
+  <data>
+    <id>4</id>
+    <exp>0</exp>
+    <money>0</money>
+    <goodsSum>1</goodsSum>
+    <goods1ID>340092</goods1ID>
+  </data>
+  <data>
+    <id>5</id>
+    <exp>0</exp>
+    <money>0</money>
+    <goodsSum>1</goodsSum>
+    <goods1ID>340093</goods1ID>
+  </data>
+</include>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<include>
+	<service>
+		<id>0x5e</id>
+		<name>manufactureService</name>
+		<class>hero.manufacture.service.ManufactureServerImpl</class>
+		<version>1.0.0</version>
+		<author>lulin</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x5e01">
+			hero.manufacture.clientHandler.ManufClientHandler
+		</clientprocess>
+	</clientprocesses>
+	<messages>
+	<message id="0x5e10">hero.manufacture.message.ManufListMessage</message>
+	<message id="0x5e11">hero.manufacture.message.ManufNeedGoodsMessage</message>
+	<message id="0x5e12">hero.manufacture.message.ManufNotify</message>
+	<message id="0x5e13">hero.manufacture.message.UpgradeSkillPoint</message>
+	</messages>
+	<para>
+	    <blacksmith_data_dir>res/data/manuf/blacksmith/</blacksmith_data_dir>
+	    <craftsman_data_dir>res/data/manuf/craftsman/</craftsman_data_dir>
+	    <dispenser_data_dir>res/data/manuf/dispenser/</dispenser_data_dir>
+	    <jeweler_data_dir>res/data/manuf/jeweler/</jeweler_data_dir>
+	</para>
+</include>

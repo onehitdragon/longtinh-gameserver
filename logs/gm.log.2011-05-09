@@ -1,0 +1,15 @@
+[2011-05-09 22:25:41,890]-INFO  (hero.gm.service.GmServiceImpl:102)|### GmServiceImpl start..
+[2011-05-09 22:25:45,921]-ERROR (hero.gm.service.GmDAO:297)|查询公告列表 :
+java.lang.NullPointerException
+	at hero.gm.service.GmDAO.getGmNoticeList(GmDAO.java:272)
+	at hero.chat.service.ChatServiceImpl.loadGmNotice(ChatServiceImpl.java:521)
+	at hero.gm.service.GmServiceImpl.startService(GmServiceImpl.java:109)
+	at me2.service.basic.AbstractService.initService(AbstractService.java:68)
+	at me2.service.ServiceMan.parse(ServiceMan.java:350)
+	at me2.service.ServiceMan.load(ServiceMan.java:127)
+	at hero.entrance.R_HeroStart.main(R_HeroStart.java:29)
+[2011-05-09 22:25:45,921]-INFO  (hero.gm.service.GmServiceImpl:69)|id:60
+name:gm
+version:1.0.0
+author:DingChu
+

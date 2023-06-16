@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<include>
+  <data>
+    <id>1</id>
+    <name>给力新手礼包</name>
+    <giftBagID>340084</giftBagID>
+    <needTime>0</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>2</id>
+    <name>倒计时礼包(2分钟)</name>
+    <giftBagID>340072</giftBagID>
+    <needTime>2</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>3</id>
+    <name>倒计时礼包(5分钟)</name>
+    <giftBagID>340073</giftBagID>
+    <needTime>7</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>4</id>
+    <name>倒计时礼包(10分钟)</name>
+    <giftBagID>340074</giftBagID>
+    <needTime>17</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>5</id>
+    <name>倒计时礼包(20分钟)</name>
+    <giftBagID>340075</giftBagID>
+    <needTime>37</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>6</id>
+    <name>倒计时礼包(30分钟)</name>
+    <giftBagID>340076</giftBagID>
+    <needTime>67</needTime>
+    <icon>98</icon>
+  </data>
+  <data>
+    <id>7</id>
+    <name>倒计时礼包(60分钟)</name>
+    <giftBagID>340077</giftBagID>
+    <needTime>127</needTime>
+    <icon>98</icon>
+  </data>
+</include>

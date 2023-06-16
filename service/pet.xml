@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x3a</id>
+		<name>pet</name>
+		<class>hero.pet.service.PetServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+	    <clientprocess id="0x3a01">hero.pet.clienthandler.OperatePet</clientprocess>
+	    <clientprocess id="0x3a05">hero.pet.clienthandler.ModifyPetName</clientprocess>
+	    <!--<clientprocess id="0x3a07">hero.pet.clienthandler.TransactPet</clientprocess>-->
+	    <clientprocess id="0x3a09">hero.pet.clienthandler.PetEvolveAdult</clientprocess>
+	    <clientprocess id="0x3a0b">hero.pet.clienthandler.PetFeedStatusChange</clientprocess>
+	    <clientprocess id="0x3a0e">hero.pet.clienthandler.AbilityListChange</clientprocess>
+	    <clientprocess id="0x3a0d">hero.pet.clienthandler.ShowPetInfo</clientprocess>
+	    <clientprocess id="0x3a0f">hero.pet.clienthandler.ShowPetSkillList</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0x3a02">hero.pet.message.PetChangeNotify</message>
+	    <message id="0x3a03">hero.pet.message.ResponsePetList</message>
+	    <message id="0x3a04">hero.pet.message.ResponsePetStage</message>
+	    <message id="0x3a06">hero.pet.message.ResponsePetNaming</message>
+	    <!--<message id="0x3a08">hero.pet.message.ResponseTransactPet</message>-->
+	    <message id="0x3a0a">hero.pet.message.ResponseFeedStatusChange</message>
+	    <message id="0x3a0d">hero.pet.message.ResponsePetRevive</message>
+	    <message id="0x3a0c">hero.pet.message.ResponsePetEvolveChange</message>
+	    <message id="0x3a0f">hero.pet.message.ResponseAbilityListChange</message>
+	    <message id="0x3a10">hero.pet.message.ResponseDiscardPoint</message>
+	    <message id="0x3a11">hero.pet.message.ResponseRefreshPetProperty</message>
+	    <message id="0x3a12">hero.pet.message.ResponsePetUpgrade</message>
+	    <message id="0x3a13">hero.pet.message.PetLearnSkillNotify</message>
+	    <message id="0x3a14">hero.pet.message.ResponseShowPetSkillList</message>
+	    <message id="0x3a15">hero.pet.message.PetWalkNotify</message>
+	    <message id="0x3a16">hero.pet.message.ResponsePetContainer</message>
+	    <message id="0x3a17">hero.pet.message.ResponseWearPetGridNumber</message>
+	    <message id="0x3a18">hero.pet.message.ResponsePetSkillIDList</message>
+	</messages>
+	<config>
+	    <pet_data_path>res/data/pet</pet_data_path>
+	    <feed_data_path>res/data/goods/feed</feed_data_path>
+	    <pet_skill_data_path>res/data/skill/pet/skill/pet_skill.xml</pet_skill_data_path>
+	    <pet_skill_effect_data_path>res/data/skill/pet/effect/pet_skill_effect.xml</pet_skill_effect_data_path>
+	</config>
+</include>

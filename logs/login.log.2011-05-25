@@ -1,0 +1,53 @@
+[2011-05-25 13:55:22,859]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:23:56,515]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:24:21,140]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:25:56,890]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:31:31,578]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:32:08,343]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20525
+[2011-05-25 15:32:08,343]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:32:08,343]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1593901247
+[2011-05-25 15:34:08,093]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20525
+[2011-05-25 15:34:08,093]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:34:08,093]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1594950110
+[2011-05-25 15:37:11,468]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:37:36,031]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20525
+[2011-05-25 15:37:36,031]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:37:36,031]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1594622187
+[2011-05-25 15:44:06,406]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:19781
+[2011-05-25 15:44:06,406]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:44:06,406]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1598046600
+[2011-05-25 15:44:26,515]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20525
+[2011-05-25 15:44:26,515]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:44:26,515]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1598243488
+[2011-05-25 15:44:55,125]-INFO  (hero.login.LoginServiceImpl:144)|玩家登陆:20525
+[2011-05-25 15:44:55,125]-INFO  (hero.login.LoginServiceImpl:145)|_accountID:4994
+[2011-05-25 15:44:55,125]-INFO  (hero.login.LoginServiceImpl:151)|返回sessionid:1598448567
+[2011-05-25 17:56:27,390]-INFO  (hero.login.LoginServiceImpl:69)|id:65
+name:登陆服务
+version:1.0.0
+author:DingChu
+

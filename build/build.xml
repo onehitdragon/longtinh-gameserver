@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE project [
+    <!ENTITY properties SYSTEM "properties.xml">
+]>
+<project name="game" default="compile" basedir=".">
+	<!-- import project-wide properties (classpath, jar file locations) -->
+    &properties;
+	
+	 <defaultexcludes add="**/_svn"/>
+	<defaultexcludes add="**/_svn/**"/> 
+
+	<target name="compile" description="build">
+		<delete dir="${classes.dir}" includeemptydirs="true"/>
+        <mkdir dir="${classes.dir}"/>
+		<javac destdir="${classes.dir}" debug="on" encoding="${compile.encoding}">
+			<src path="${src.dir}"/>
+			<classpath refid="classpath"/>
+		</javac>
+	</target>
+
+	<!-- <target name="jar" depends="compile">
+        <jar jarfile="${lib.dir}/server.jar"
+            basedir="${classes.dir}"
+            update="yes"/> 
+        
+    </target>-->
+</project>

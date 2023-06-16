@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<include>
+  <data>
+    <id>800</id>
+    <npcID>g1</npcID>
+    <mapID>9</mapID>
+    <mapX>24</mapX>
+    <mapY>20</mapY>
+  </data>
+</include>

@@ -1,0 +1,72 @@
+[2011-05-25 13:55:48,531]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 13:55:48,546]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 13:55:48,578]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:24:37,500]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 15:24:37,500]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 15:24:37,531]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:26:08,687]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 15:26:08,687]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 15:26:08,703]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:31:43,062]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 15:31:43,062]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 15:31:43,078]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:32:08,953]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:32:08,953]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:32:09,812]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:32:09,812]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:32:09,812]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 15:34:08,515]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:34:08,515]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:34:08,812]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:34:08,812]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:34:08,812]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 15:37:22,984]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 15:37:22,984]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 15:37:23,000]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+
+[2011-05-25 15:37:36,656]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:37:36,671]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:37:37,031]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:37:37,046]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:37:37,046]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 15:44:06,984]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:44:06,984]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:44:07,265]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:44:07,265]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:44:07,265]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 15:44:26,968]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:44:26,968]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:44:27,250]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:44:27,250]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:44:27,250]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 15:44:55,531]-INFO  (hero.charge.service.ChargeServiceImpl:613)|request url = http://112.25.14.24/usercenter/querypoint.php
+[2011-05-25 15:44:55,531]-INFO  (hero.charge.service.ChargeServiceImpl:617)|response str = 1#该用户还未充值，余额0点
+[2011-05-25 15:44:55,781]-INFO  (hero.charge.service.ChargeServiceImpl:282)|rechargeFeePointInfoList size=13
+[2011-05-25 15:44:55,796]-INFO  (hero.charge.service.ChargeServiceImpl:261)|rechargeFeeList size=3
+[2011-05-25 15:44:55,796]-INFO  (hero.charge.message.SendChargeList:137)|output size = 2147
+[2011-05-25 17:56:39,187]-INFO  (hero.charge.service.ChargeServiceImpl:205)|fpList size=19
+[2011-05-25 17:56:39,187]-INFO  (hero.charge.service.ChargeServiceImpl:206)|feeTypeList size =4
+[2011-05-25 17:56:39,203]-INFO  (hero.charge.service.ChargeServiceImpl:69)|id:59
+name:charge
+version:1.0.0
+author:DingChu
+

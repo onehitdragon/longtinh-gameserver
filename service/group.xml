@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0xc</id>
+		<name>group</name>
+		<class>hero.group.service.GroupServiceImpl</class>
+		<version>1.0.0</version>
+		<author>Luke</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0xc01">hero.group.clientHandler.GroupOperation	</clientprocess>
+	</clientprocesses>
+	<messages>
+	    <message id="0xc02">hero.group.message.GroupInviteNotify</message>
+		<message id="0xc03">hero.group.message.GroupMemberListNotify</message>
+		<message id="0xc04">hero.group.message.AddMemberNotify</message>
+		<message id="0xc05">hero.group.message.ReduceMemberNotify</message>
+		<message id="0xc06">hero.group.message.MemberChangerNotify</message>
+		<message id="0xc07">hero.group.message.GroupDisbandNotify</message>
+        <message id="0xc08">hero.group.message.OthersHpMpNotify</message>
+	</messages>
+	<para>
+	</para>
+</include>

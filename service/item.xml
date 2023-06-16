@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<include>
+	<service>
+		<id>0x1d</id>
+		<name>item</name>
+		<class>hero.item.service.GoodsServiceImpl</class>
+		<version>1.0.0</version>
+		<author>DingChu</author>
+	</service>
+	<clientprocesses>
+		<clientprocess id="0x1d02">hero.item.clienthandler.OperateEquipmentBag</clientprocess>
+		<clientprocess id="0x1d03">hero.item.clienthandler.OperateMedicamentBag</clientprocess>
+		<clientprocess id="0x1d06">hero.item.clienthandler.OperateMaterialBag</clientprocess>
+		<clientprocess id="0x1d05">hero.item.clienthandler.OperateTaskToolBag</clientprocess>
+		<clientprocess id="0x1d0a">hero.item.clienthandler.PickMonsterLegacy</clientprocess>
+		<clientprocess id="0x1d11">hero.item.clienthandler.ViewOthersEquipmentList</clientprocess>
+		<clientprocess id="0x1d14">hero.item.clienthandler.OperateSpecialGoodsBag</clientprocess>
+		<clientprocess id="0x1d15">hero.item.clienthandler.UseGoodsShortcutKey</clientprocess>
+		<clientprocess id="0x1d16">hero.item.clienthandler.SelectDistributeGoods</clientprocess>
+		<clientprocess id="0x1d17">hero.item.clienthandler.UpgradeBag</clientprocess>
+		<clientprocess id="0x1d20">hero.item.clienthandler.EnhanceEquipment</clientprocess>
+		<clientprocess id="0x1d23">hero.item.clienthandler.RemoveEquipmentSeal</clientprocess>
+		<clientprocess id="0x1d24">hero.item.clienthandler.CompleteHornInput</clientprocess>
+		<clientprocess id="0x1d25">hero.item.clienthandler.AnswerSoulGoodsOperation</clientprocess>
+		<clientprocess id="0x1d26">hero.item.clienthandler.ViewItem</clientprocess>
+		<clientprocess id="0x1d27">hero.item.clienthandler.OperatePetEquipmentBag</clientprocess>
+        <clientprocess id="0x1d29">hero.item.clienthandler.SingleHoleEnhanceProperty</clientprocess>
+        <clientprocess id="0x1d32">hero.item.clienthandler.PlayerRespBuyJewel</clientprocess>
+        <clientprocess id="0x1d35">hero.item.clienthandler.ItemRevive</clientprocess> <!--复活石-->
+        <clientprocess id="0x1d99">hero.item.clienthandler.InitializeItemData</clientprocess>
+	</clientprocesses>
+	<messages>
+		<message id="0x1d01">hero.item.message.SendBodyWearList</message><!-- 3329 -->
+		<message id="0x1d02">hero.item.message.ResponseEquipmentBag</message><!-- 3330 -->
+		<message id="0x1d03">hero.item.message.ResponseMedicamentBag</message><!-- 3331 -->
+		<message id="0x1d05">hero.item.message.ResponseTaskToolBag</message><!-- 3333 -->
+		<message id="0x1d06">hero.item.message.ResponseMaterialBag</message><!-- 3334 -->
+		<message id="0x1d07">hero.item.message.RefreshEquipmentDurabilityPoint</message><!-- 3335 -->
+		<message id="0x1d10">hero.item.message.ClothesOrWeaponChangeNotify</message><!-- 3338 -->
+		<message id="0x1d0b">hero.item.message.LegacyBoxEmergeNotify</message><!--  -->
+		<message id="0x1d0c">hero.item.message.LegacyBoxDisappearNotify</message><!--  -->
+		<message id="0x1d0d">hero.item.message.NodifyMedicamentCDTime</message>
+		<message id="0x1d12">hero.item.message.ResponseOthersWearList</message>
+		<message id="0x1d14">hero.item.message.ResponseSpecialGoodsBag</message>
+		<message id="0x1d15">hero.item.message.GoodsShortcutKeyChangeNotify</message>
+		<message id="0x1d16">hero.item.message.GoodsDistributeNotify</message>
+		<message id="0x1d17">hero.item.message.LegacyBoxStatusDisappearNotify</message>
+		<message id="0x1d18">hero.item.message.SendLegacyBoxList</message>
+		<message id="0x1d19">hero.item.message.SendBagSize</message>
+		<message id="0x1d20">hero.item.message.EquipmentEnhanceChangeNotify</message>
+		<message id="0x1d21">hero.item.message.NotifyPopEnhanceUI</message>
+		<message id="0x1d22">hero.item.message.AddWeaponBloodyEnhanceNotify</message>
+		<message id="0x1d23">hero.item.message.RemoveEquipmentSealNotify</message>
+		<message id="0x1d24">hero.item.message.PopHornInputUINotify</message>
+		<message id="0x1d25">hero.item.message.SoulGoodsConfirm</message>
+		<message id="0x1d26">hero.item.message.ResponseItemInfo</message>
+		<message id="0x1d27">hero.item.message.PetClothesOrWeaponChangeNotify</message>
+		<message id="0x1d28">hero.item.message.ResponsePetEquipmentBag</message>
+        <message id="0x1d30">hero.item.message.ResponseSingleHoleEnhanceProperty</message>
+        <message id="0x1d31">hero.item.message.AskBuyJewel</message>
+        <message id="0x1d33">hero.item.message.EnhanceAnswer</message>
+        <message id="0x1d34">hero.item.message.UpgradeBagAnswer</message>
+        <message id="0x1d99">hero.item.message.ResponseInitializeItemData</message>
+	</messages>
+	<specialConfig>
+		<!-- 特殊物品扩展配置 -->
+	    <number_transport>340028</number_transport>
+		<number_revive>340042</number_revive>
+		<number_guild_build>340052</number_guild_build>
+		<!--物品编号;药品类型0,1;使用类型0,1,2;点数-->
+		<big_tonic>340030,0,0,100000;340031,1,0,100000;340032,0,0,200000;340033,1,0,200000;340034,0,0,400000;340035,1,0,400000;340036,0,2,300000;340037,1,2,300000;340038,0,2,600000;340039,1,2,600000;340040,0,2,1000000;340041,1,2,1000000</big_tonic>
+		<pet_per_function>340048,1,110154;340049,1,110155;340050,1,110156;340051,1,110157</pet_per_function>
+		<pet_forever_function>340044,110158;340045,110159;340046,110160;340047,110161</pet_forever_function>
+		<odds_enhance_list>80,20,0;19,80,1;5,92,3;0,90,10</odds_enhance_list>
+		<time_gift_bag_list>340048,2;340049,5;340050,10;340051,20;340052,30;340053,60;340054,60;340055,60</time_gift_bag_list>
+		
+		<!--礼包和其内容-->
+		<gift_bag_id_list>340048,340049</gift_bag_id_list>
+		<experience_book_icon>6</experience_book_icon>
+        <experience_book_time>340025,30;340026,60;340027,240</experience_book_time>
+        <!--背包扩展ID-->
+        <bag_expan_id>340065</bag_expan_id>
+	</specialConfig>
+	
+	<defaultConfig>
+		<material_bag_tab_name>材料</material_bag_tab_name>
+	    <medicament_bag_tab_name>药水</medicament_bag_tab_name>
+	    <task_tool_bag_tab_name>任务</task_tool_bag_tab_name>
+	    <special_bag_tab_name>宝物</special_bag_tab_name>
+	    <equipment_bag_tab_name>装备</equipment_bag_tab_name>
+	    
+	    <shine_flash_view_1>745,745</shine_flash_view_1>
+	    <shine_flash_view_2>746,746</shine_flash_view_2>
+	    <shine_flash_view_3>747,747</shine_flash_view_3>
+	    <shine_flash_view_4>748,748</shine_flash_view_4>
+	    <shine_flash_view_5>749,749</shine_flash_view_5>
+	    <shine_flash_view_6>766,766</shine_flash_view_6>
+	    <armor_shine_flash_view_1>770,770</armor_shine_flash_view_1>
+	    <armor_shine_flash_view_2>771,770</armor_shine_flash_view_2>
+	    <armor_shine_flash_view_3>772,770</armor_shine_flash_view_3>
+	    <armor_shine_flash_view_4>773,770</armor_shine_flash_view_4>
+	    <armor_shine_flash_view_5>784,770</armor_shine_flash_view_5>
+	    <armor_shine_flash_view_6>785,770</armor_shine_flash_view_6>
+	    
+	    <yet_set_jewel_1>555,555</yet_set_jewel_1>
+	    <yet_set_jewel_2>555,555</yet_set_jewel_2>
+	    <yet_set_jewel_3>555,555</yet_set_jewel_3>
+	    <describe_enhance_string>强化属性+</describe_enhance_string>
+	    
+	    
+	    <!--强化操作每孔消耗的金额-->
+		<perforate_money_list>100,100,100,300,300,300,600,600,600,900,900,900</perforate_money_list><!--打孔-->
+		<enhance_money_list>100,100,100,300,300,300,600,600,600,900,900,900</enhance_money_list><!--镶嵌-->
+		<wreck_money_list>100,100,100,100,100,100,100,100,100,100,100,100</wreck_money_list><!--剥离-->
+	    <describe_string>碎裂：#HH宝石将增加装备微量的属性加成#HH完整：#HH宝石将增加装备少量的属性加成#HH闪光：#HH宝石将增加装备较多的属性加成#HH连续闪光有额外加成#HH后三孔的镶嵌加成均有额外提高</describe_string>
+	</defaultConfig>
+	
+	<para>
+	    <weapon_data_path>res/data/goods/weapon/</weapon_data_path>
+	    <armor_data_path>res/data/goods/armor</armor_data_path>
+	    <medicament_data_path>res/data/goods/medicament/</medicament_data_path>
+	    <special_goods_data_path>res/data/goods/special/</special_goods_data_path>
+	    <material_data_path>res/data/goods/material/</material_data_path>
+	    <task_goods_data_path>res/data/goods/task/</task_goods_data_path>
+	    <exchange_goods_data_path>res/data/goods/exchange/</exchange_goods_data_path>
+	    <change_vocation_tool_data_path>res/data/goods/vocation</change_vocation_tool_data_path>
+	    <world_legacy_equip_data_path>res/data/goods/legacy/equipment</world_legacy_equip_data_path>
+        <world_legacy_material_data_path>res/data/goods/legacy/material</world_legacy_material_data_path>
+        <world_legacy_medicament_data_path>res/data/goods/legacy/medicament</world_legacy_medicament_data_path>
+	    <suite_equipment_data_path>res/data/goods/armor/suite</suite_equipment_data_path>
+	    <gift_bag_data_path>res/data/goods/special/giftBag</gift_bag_data_path>
+	</para>
+</include>

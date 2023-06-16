@@ -1,0 +1,14 @@
+[2011-05-30 18:14:16,203]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-30 18:14:17,515]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-30 18:28:55,203]-INFO  (hero.chat.service.ChatServiceImpl:69)|id:30
+name:chat
+version:1.0.0
+author:Luke
+
+[2011-05-30 18:28:56,406]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-30 18:30:55,390]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
+[2011-05-30 18:35:56,375]-INFO  (hero.chat.service.ChatServiceImpl:522)|loadGmNotice gmNoticeMap size  = 0
